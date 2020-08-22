@@ -1317,3 +1317,82 @@ pvp_y_6-5.rsw#PvP : Room Morocc#
 pvp_y_7-5.rsw#PvP : Room Morocc#
 pvp_y_8-5.rsw#PvP : Room Morocc#
 pvp_2vs2.rsw#PvP : Event Coliseum#
+
+// Gramps Instances
+eabyss_01l.rsw#Gramps 1#
+eabyss_01m.rsw#Gramps 2#
+eabyss_01h.rsw#Gramps 3#
+eabyss_03l.rsw#Gramps 1#
+eabyss_03m.rsw#Gramps 2#
+eabyss_03h.rsw#Gramps 3#
+ebeach_dunl.rsw#Gramps 1#
+ebeach_dunm.rsw#Gramps 2#
+ebeach_dunh.rsw#Gramps 3#
+ebif_fld01l.rsw#Gramps 1#
+ebif_fld01m.rsw#Gramps 2#
+ebif_fld01h.rsw#Gramps 3#
+edic_dun01l.rsw#Gramps 1#
+edic_dun01m.rsw#Gramps 2#
+edic_dun01h.rsw#Gramps 3#
+edic_dun02l.rsw#Gramps 1#
+edic_dun02m.rsw#Gramps 2#
+edic_dun02h.rsw#Gramps 3#
+edic_fld01l.rsw#Gramps 1#
+edic_fld01m.rsw#Gramps 2#
+edic_fld01h.rsw#Gramps 3#
+egef_dun03l.rsw#Gramps 1#
+egef_dun03m.rsw#Gramps 2#
+egef_dun03h.rsw#Gramps 3#
+egl_chyardl.rsw#Gramps 1#
+egl_chyardm.rsw#Gramps 2#
+egl_chyardh.rsw#Gramps 3#
+ethor_v02l.rsw#Gramps 1#
+ethor_v02m.rsw#Gramps 2#
+ethor_v02h.rsw#Gramps 3#
+ehu_fild01l.rsw#Gramps 1#
+ehu_fild01m.rsw#Gramps 2#
+ehu_fild01h.rsw#Gramps 3#
+era_fild12l.rsw#Gramps 1#
+era_fild12h.rsw#Gramps 3#
+era_fild12m.rsw#Gramps 2#
+era_san04l.rsw#Gramps 1#
+era_san04m.rsw#Gramps 2#
+era_san04h.rsw#Gramps 3#
+etha_t04l.rsw#Gramps 1#
+etha_t04m.rsw#Gramps 2#
+etha_t04h.rsw#Gramps 3#
+etur_dun03l.rsw#Gramps 1#
+etur_dun03m.rsw#Gramps 2#
+etur_dun03h.rsw#Gramps 3#
+eyno_fld07l.rsw#Gramps 1#
+eyno_fld07m.rsw#Gramps 2#
+eyno_fld07h.rsw#Gramps 3#
+emag_dun02l.rsw#Gramps 1#
+emag_dun02m.rsw#Gramps 2#
+emag_dun02h.rsw#Gramps 3#
+elhz_fld01l.rsw#Gramps 1#
+elhz_fld01m.rsw#Gramps 2#
+elhz_fld01h.rsw#Gramps 3#
+eman_fld03l.rsw#Gramps 1#
+eman_fld03m.rsw#Gramps 2#
+eman_fld03h.rsw#Gramps 3#
+epay_dun00l.rsw#Gramps 1#
+epay_dun00m.rsw#Gramps 2#
+epay_dun00h.rsw#Gramps 3#
+emos_dun02l.rsw#Gramps 1#
+emos_dun02m.rsw#Gramps 2#
+emos_dun02h.rsw#Gramps 3#
+
+// Overlook Water Dungeon (Custom)
+iz_dun00t.rsw#Overlook Water Dungeon B1#
+iz_dun01t.rsw#Overlook Water Dungeon B2#
+iz_dun02t.rsw#Overlook Water Dungeon B3#
+iz_dun03t.rsw#Overlook Water Dungeon B4#
+iz_dun04t.rsw#Overlook Water Dungeon B5#
+
+// Endless Cellar
+1@new.rsw#Endless Cellar 1#
+2@new.rsw#Endless Cellar 2#
+3@new.rsw#Endless Cellar 3#
+4@new.rsw#Endless Cellar 4#
+5@new.rsw#Endless Cellar 5#

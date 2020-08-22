@@ -1250,3 +1250,20 @@ epay_dun00h.rsw#bgm\\20.mp3#
 emos_dun02l.rsw#bgm\\116.mp3#
 emos_dun02m.rsw#bgm\\116.mp3#
 emos_dun02h.rsw#bgm\\116.mp3#
+
+// Endless Cellar (Custom)
+1@new.rsw#bgm\\51.mp3#
+2@new.rsw#bgm\\51.mp3#
+3@new.rsw#bgm\\118.mp3#
+4@new.rsw#bgm\\118.mp3#
+5@new.rsw#bgm\\103.mp3#
+
+// Overlook Water Dungeon
+iz_dun00t.rsw#bgm\\29.mp3#
+iz_dun01t.rsw#bgm\\29.mp3#
+iz_dun02t.rsw#bgm\\29.mp3#
+iz_dun03t.rsw#bgm\\49.mp3#
+iz_dun04t.rsw#bgm\\49.mp3#
+
+// Rachel Sanctuary Quest area
+que_san04.rsw#bgm\\95.mp3#

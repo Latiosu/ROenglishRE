@@ -1,13 +1,8 @@
 tb_cashshop_banner = {
 	[1] = {
-		"rAbanner.bmp",
-		"https://rathena.org/"
-	},
-	[2] = {
-		"rAbanner.bmp",
-		"https://rathena.org/"
-	},
-	[3] = { "rAbanner.bmp", "https://rathena.org/" }
+		"chocobotro-banner.bmp",
+		"https://chocobot.cloud/?module=donate"
+	}
 }
 
 function set_cashshop_banner()

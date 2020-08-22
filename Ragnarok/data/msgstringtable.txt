@@ -264,7 +264,7 @@ Flee Rate#
 Attack Speed#
 Server is jammed due to over population. Please try again shortly.#
 Option#
-Account ID blocked by the Game Master Team.#
+Unverified email address or Account ID blocked.#
 Incorrect User ID or Password. Please try again.#
 Choose Hairstyle#
 ATK#
@@ -1251,12 +1251,12 @@ You will receive 1.5 times more EXP from hunting monsters for the next 30 minute
 This character will not receive any EXP penalty if killed within the next 30 minutes.#
 Regular item drops from monsters will be doubled for the next 30 minutes.#
 Boss Monster Map Information for the next 10 minutes.#
-Do you really want to purchase this item? %d points will be deducted from your total Kafra Credit Points.#
- You do not have enough Kafra Credit Points.#
+Confirm items to purchase? %d points will be deducted from your total Choco Points.#
+You do not have enough Choco Points.#
  ^ff0000Expiration Date: %s^000000#
  The '%s' item will disappear in %d minutes.#
  '%s' item will be deleted from the Inventory in 1 minute.#
-  '%s' item has been deleted from the Inventory.#
+ '%s' item has been deleted from the Inventory.#
 Input Number#
 %m/%d %H:%M#
 Boss Monster '%s' will appear within 1 minute.#
@@ -1327,7 +1327,7 @@ Block all party invitations.#
 Allow all party invitations.#
 This item will be permanently bound to this character once it is equipped. Do you really want to equip this item?#
 %s is now permanently bound to this character.#
-You do not have enough Kafra Credit Points. Please enter whether you have free credit points.#
+You do not have enough Choco Points. Please enter whether you have free credit points.#
 Request to Join Party#
 Display WOE Info#
 Memorial Dungeon %s's reservation has been canceled.#
@@ -2863,7 +2863,7 @@ Total possession item type#
 Show minimap buttons#
 Hide minimap buttons#
 Show guild member login status#
-^0000CCIntimacy:^000000 %s#
+^0000CCIntimacy: ^000000%s#
 Before confirmation#
 Team name#
 Leader#
@@ -3277,33 +3277,33 @@ Downgrade#
 Base#
 Modified file is found. Please restart the game.#
 %s can't be used in this map.#
-Feed \nyourself#
+Autofeed#
 You can't feed Homunculus while the RODEX window is open.#
 Homunculus has been fed. '%s' - %d remaining#
 Homunculus automatic feeding is ON#
 Homunculus automatic feeding is OFF#
-Homunculus receives \n10% of master's experiences.#
+Homunculus gains 10% of your EXP.#
 Rate : %d%%#
 The target isn't in attack range vicinity. Please use 'Alt + Right Click' to command Homunculus attacks a target.#
 There is no target in attack range vicinity. Please use 'Alt + Right Click' to command Homunculus attacks a target.#
-Sell List#
-Buy List#
+Chocobot Shop#
+Choco Points#
 New#
 Popular#
-Limited Sale#
-Rental Equipment#
-Permanent Equipment#
-Scrolls#
+Headgear#
+Equipment#
 Consumables#
-Other#
-Special#
-Recharging#
+Rental#
+Limited Time#
+Function#
+Specials#
+Buy#
 Purchase#
-https://rathena.org/board/clients/donations/#
-Item Search#
-Free points#
-Use Free points#
-Owned points#
+https://chocobot.cloud/?module=donate#
+Search... (Case-sensitive)#
+#
+#
+Choco Points#
 Refresh#
 Star Emperor(Girl)#
 Soul Reaper(Girl)#

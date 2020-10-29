@@ -19,7 +19,7 @@ Misc
 Skill Description:
 	^0000FF = Skill Names + Status (Hiding,...)
 	^990099 = Item Names + Skill Requirements (Spirit Spheres,...)
-	^0033CC = Race/Class/Size
+	^0033CC = Race/Class/Size/Elementals/Machines
 	
 	"Max Level:
 	
@@ -29,6 +29,7 @@ Skill Description:
 
 	"Skill Form: ^6666CCPassive^000000",
 	"Skill Form: ^339966Active^000000",
+	"Skill Form: ^339966Active (Toggle)^000000",
 	
 	"Type: ^339900Supportive^000000",
 	"Type: ^339900Recovery^000000",
@@ -39,6 +40,7 @@ Skill Description:
 	
 	"Type: ^000099Trap (Hidden)^000000",
 	"Type: ^000099Trap (Visible)^000000",
+	"Type: ^000099Trap^000000",
 	"Type: ^000099Planting^000000",
 	"Type: ^000099Song Skill^000000",
 	"Type: ^000099Dance Skill^000000",
@@ -70,15 +72,25 @@ Skill Description:
 	"Target: ^6666CCAround the caster^000000",
 	"Target: ^6666CCCaster's View Range^000000",
 	"Target: ^6666CCCaster and Party Members^000000",
+	"Target: ^6666CC1 Party Member^000000",
 	
 	"Description: ^777777 ^000000",
+
+	- 4th Classes:
+	"Skill Form: ^339966Active(AP)^000000",
+	"Recover: ^0054FF AP^000000",
+	"Cost: ^FF0000150 AP^000000",
 
 Item Description:
 	unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 	
 	- Stats Codings:
 	"Base ^CC6600AGI^000000 is at least ^FF000070^000000:",
+	"Bonus ^CC6600STR^000000 is at least ^FF0000+10^000000:",
+	"^CC6600Base Level^000000 is at least ^FF0000100^000000:",
+	"^CC6600Base Level^000000 is ^FF000099^000000 or less:",
 	"For each ^0000FF20^000000 base ^CC6600STR^000000:",
+	"For each ^0000FF20^000000 combined sum of base ^CC6600AGI^000000 and ^CC6600VIT^000000:",
 	"For each ^0000FF50 ^CC6600Base Level^000000:",
 	"STR +",
 	"AGI +",
@@ -97,6 +109,23 @@ Item Description:
 	"MaxSP +", "MaxSP +%",
 	"Increases HP Recovery Rate by %.",
 	"Increases SP Recovery Rate by %.",
+	"Attack Range: x cells",
+	^0033CC = Specific Recovery Item
+	^990099Recovery Items^000000
+	
+	> 4th Classes:
+	"POW +",
+	"STA +",
+	"WIS +",
+	"SPL +",
+	"CON +",
+	"CRT +",
+	"P.ATK +",
+	"S.MATK +",
+	"H.Plus +",
+	"C.Rate +",
+	"Res +",
+	"Mres +",
 	
 	"<STAT> +1 multiplied with total skill level of ^0033CC<Class>^000000's exclusive/related skills:",
 	"^009900<Skill List> and <Last Skill>^000000",
@@ -107,9 +136,13 @@ Item Description:
 	"Enables the use of ^0000FF<Skill>^000000.",
 	"Enables the use of Level X ^0000FF<Skill>^000000.",
 	"When ^009900<Skill>^000000 is used:",
+	"When ^009900<Skill>^000000 is mastered:",
+	"When Level X ^009900<Skill>^000000 is learned:",
 	"When ^0033CC<Base Class>^000000 classes uses ^009900<Skill List>^000000 or ^009900<Last Skill>^000000:",
 	
 	"Enables interrupted skill casting.",
+	"Nullifies Gemstone requirement of certain skills.",
+	"Nullifies weapon damage size penalty against all monsters.",
 	
 	"Decreases ^009900<Skill>^000000 skill cooldown by seconds.",
 	"Decreases ^009900<Skill>^000000 skill cooldown by second.",
@@ -118,8 +151,14 @@ Item Description:
 	"Decreases SP Consumption of all skills by .",
 	"Decreases SP Consumption of ^009900<Skill>^000000 by .",
 	
-	"Decreases After Skill Delay of ^009900<Skill>^000000 by %.",
 	"Decreases After Skill Delay of all skills by %.",
+	"Decreases After Skill Delay of ^009900<Skill>^000000 by %.",
+	
+	"Decreases Variable Casting Time of all skills by %.",
+	"Decreases Variable Casting Time of ^009900<Skill>^000000 by %.",
+	
+	"Decreases Fixed Casting Time of all skills by %.",
+	"Decreases Fixed Casting Time of ^009900<Skill>^000000 by %.",
 	
 	"For the highest Level of either ^009900<Skill>^000000, ^009900<Skill>^000000 or ^009900<Skill>^000000,",
 	"increase damage dealt with ^009900<Skill>^000000 by % per skill Level.",
@@ -131,24 +170,30 @@ Item Description:
 	"When equipped with 2 types of ^990099<Class> Shadow^000000, ^990099<Class> Shadow^000000 or ^990099<Class> Shadow^000000 Equipment:",
 	"When equipped by ^0033CC<Base Class>^000000 classes:",
 	"When equipped by ^0033CC<Certain Class>^000000:",
+	"When equipped as ^990099Accessory Right^000000:", -> Accessory (1)
+	"When equipped as ^990099Accessory Left^000000:", -> Accessory (2)
 	"^663399Indestructible in battle^000000",
 	
 	- Basic Card Compounding:
 	"When compounded on ^990099<Equipment>^000000:",
 	
+	- Basic Enchantment
+	"When enchanted with ^990099<Equipment>^000000:",
+	
 	- Refine Codings:
 	"^0000FFFor each Refine Level^000000:",
 	"^0000FFFor each Refine Level^000000 of ^990099<Equipment>^000000:",
-	"^0000FFFor each Refine Level above ^0000FF+9^000000 of ^990099<Equipment>^000000 and ^990099<Equipment>^000000:",
+	"^0000FFFor each Refine Level^000000 equal or above ^0000FF+9^000000 of ^990099<Equipment>^000000 and ^990099<Equipment>^000000:",
 	"^0000FFFor each Refine Level^000000 equal or above ^0000FF+6^000000:",
 	"^0000FFFor each Refine Level^000000 above ^0000FF+6^000000:",
 	"^0000FFFor each 2 Refine Levels^000000 of equipped ^990099<Equipment Type>^000000:",
 	"^0000FFFor each 2 Refine Levels^000000:",
 	"^0000FFRefine Level +7^000000:",
+	"If ^0000FFRefine Level^000000 of equipped ^990099<Equipment Type>^000000 is ^0000FF+7 or higher^000000:",
 	
 	- Refine Codings in combination
 	"If ^0000FFRefine Level^000000 of ^990099<Equipment>^000000 is ^0000FF+7 or higher^000000:",
-	"If ^0000FFtotal Refine Level^000000 of ^990099<Equipment>, <Equipment>^000000 and ^990099<Equipment>^000000 is ^0000FF+27 or higher^000000:",
+	"If ^0000FFtotal Refine Level^000000 of ^990099<Equipment>^000000, ^990099<Equipment>^000000 and ^990099<Equipment>^000000 is ^0000FF+27 or higher^000000:",
 	"If ^0000FFtotal Refine Level of entire set^000000 at least ^0000FF+14^000000:",
 	"^0000FFFor each Refine Level^000000 of ^0000FFentire set^000000:",
 	"^0000FFFor each 5 Refine Levels^000000 of ^0000FFentire set^000000:",
@@ -165,9 +210,11 @@ Item Description:
 	"^000088Rental Item^000000",
 	"^FF0000This item is not refundable.^000000",
 	"^FF0000This item cannot be traded with other accounts.^000000",
+	"^FF0000This item cannot be traded or moved to storage.^000000",
 	
-	"^FF0000Can only be sold to NPCs and put into storage.^000000",
-	"^ff0000Can only be sold to NPC's.",
+	"^FF0000This item can only be sold to NPCs and moved to storage.^000000",
+	"^FF0000This item can only be sold to NPCs.",
+	"^FF0000This item will not be used in future events.^000000",
 	
 Equipment Info:
 			"________________________",
@@ -175,8 +222,10 @@ Equipment Info:
 			"^0000CCAttack:^000000 ",
 			"^0000CCDefense:^000000 ",
 			"^0000CCPosition:^000000 ",
+			"^0000CCElement:<Element Color Code> ", > Look at the beginning of this file
 			"^0000CCWeight:^000000 ",
 			"^0000CCRefineable:^000000 No", > Only used when the item is NOT refinable
+			"^0000CCArmor Level:^000000 ",
 			"^0000CCWeapon Level:^000000 ",
 			"________________________",
 			"^0000CCRequirement:^000000",
@@ -209,7 +258,14 @@ Shadow Equipment:
 
 Equipped Effect:
 	"^006400Since it is an equipped effect, it still will be displayed even when the effect (/effect) is turned off.^000000",
-
+	
+	"^006400This item is equipped with special effects:",
+	"- When the effect (/effect) is switched, the display does not change immediately, so it is necessary to re-equip the item after entering the command.",
+	"- When using a disappearing skill such as \"Hiding\", the effect will not be visible to other players.",
+	"- Even when equipped with an adopted character, the same effect as a normal character will be displayed.^000000",
+	
+	"^000088The graphic is reflected on the character.^000000",
+	
 jRO Egg Description:
 			"A magical egg that pops out outfits when opened.",
 			"________________________",
@@ -224,3 +280,5 @@ jRO Egg Description:
 			"- Costume ",
 			"- Costume ",
 			"- Costume ^000000",
+			"________________________",
+			"^0000CCWeight:^000000 1"

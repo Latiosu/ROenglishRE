@@ -58921,6 +58921,97 @@ QuestInfoList = {
 		},
 		Summary = "1 Milk"
 	},
+	[62838] = {
+		Title = "Bounty Board True Kathryne Keyron",
+		Description = {
+			"Hunt 150 True Kathryne Keyron monsters and return to the Bounty Board at Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62839] = {
+		Title = "Bounty Board True Margaretha Sorin",
+		Description = {
+			"Hunt 150 True Margaretha Sorin monsters and return to the Bounty Board at Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62840] = {
+		Title = "Bounty Board True Cecil Damon",
+		Description = {
+			"Hunt 150 True Cecil Damon monsters and return to the Bounty Board at Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62841] = {
+		Title = "Bounty Board True Eremes Guile",
+		Description = {
+			"Hunt 150 True Eremes Guile monsters and return to the Bounty Board at Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62842] = {
+		Title = "Bounty Board True Seyren Windsor",
+		Description = {
+			"Hunt 150 True Seyren Windsor monsters and return to the Bounty Board at Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62843] = {
+		Title = "Bounty Board True Howard Alt-Eisen",
+		Description = {
+			"Hunt 150 True Howard Alt-Eisen monsters and return to the Bounty Board at Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62844] = {
+		Title = "Bounty Board True Trentini",
+		Description = {
+			"Hunt 150 True Trentini monsters and return to the Bounty Board at Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62845] = {
+		Title = "Bounty Board True Celia Alde",
+		Description = {
+			"Hunt 150 True Celia Alde monsters and return to the Bounty Board at Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62846] = {
+		Title = "Bounty Board True Alphoccio",
+		Description = {
+			"Hunt 150 True Alphoccio monsters and return to the Bounty Board at Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62847] = {
+		Title = "Bounty Board True Gertie",
+		Description = {
+			"Hunt 150 True Gertie monsters and return to the Bounty Board at Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62848] = {
+		Title = "Bounty Board True Chen Lio",
+		Description = {
+			"Hunt 150 True Chen Lio monsters and return to the Bounty Board at Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62849] = {
+		Title = "Bounty Board True Flamel Emure",
+		Description = {
+			"Hunt 150 True Flamel Emure monsters and return to the Bounty Board at Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62850] = {
+		Title = "Bounty Board True Randel Lawrence",
+		Description = {
+			"Hunt 150 True Randel Lawrence monsters and return to the Bounty Board at Lighthalzen"
+		},
+		Summary = ""
+	},
 	[62854] = {
 		Title = "2015 Talk like a pirate day",
 		Description = {

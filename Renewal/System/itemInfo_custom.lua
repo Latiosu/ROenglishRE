@@ -2261,26 +2261,25 @@ tbl_custom = {
   [18673] = {
     unidentifiedDisplayName = "Unidentified Hat",
     unidentifiedResourceName = "캡",
-    unidentifiedDescriptionName = {
-      "Can be identified by using a ^990099Magnifier^000000."
-    },
+    unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Chibi Pope",
     identifiedResourceName = "타레교황인형모자",
-      "The Chibi Pope wishes to escape her duties in Rachel so she's taking a sightseeing vacation with the assistance of helpful Adventurers!",
+    identifiedDescriptionName = {
+      "A hat with motif of Arunafeltz Pope. Its has a lot of enthusiastic believers from around the world.",
       "________________________",
       "MDEF +7",
       "________________________",
       "Increases ^009900Healing^000000 skills by 5%.",
       "________________________",
       "^0000FFRefine Level +7^000000:",
-      "^0000FFFor each refine level^000000:",
+      "^0000FFFor each Refine Level^000000:",
       "Increases ^009900Healing^000000 skills by 1%.",
       "^0000FFRefine Level +9^000000:",
       "MATK +7%",
       "^0000FFRefine Level +12^000000:",
       "MATK +12%",
       "________________________",
-      "When combined with ^990099Blush^000000:",
+      "When equipped with ^990099Blush^000000:",
       "Increases ^009900Healing^000000 skills by 10%.",
       "________________________",
       "^0000CCType:^000000 Headgear",
@@ -2291,20 +2290,19 @@ tbl_custom = {
       "^0000CCRequirement:^000000 None"
     },
     slotCount = 1,
-    ClassNum = 817
+    ClassNum = 817,
+    costume = false
   },
   [18693] = {
     unidentifiedDisplayName = "Unidentified Hat",
     unidentifiedResourceName = "캡",
-    unidentifiedDescriptionName = {
-      "Can be identified by using a ^990099Magnifier^000000."
-    },
+    unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Sleeping Kitty Cat",
     identifiedResourceName = "잠자는고양이모자",
     identifiedDescriptionName = {
       "Hat that refer to shape of sleeping cat. If you wake up sleeping cat, you will be suffered.",
       "________________________",
-      "Increases physical damage inflicted on ^FF0000Brute^000000 monsters by 2%.",
+      "Increases physical damage against ^FF0000Brute^000000 race monsters by 2%.",
       "________________________",
       "^0000CCType:^000000 Headgear",
       "^0000CCDefense:^000000 4",
@@ -2312,11 +2310,12 @@ tbl_custom = {
       "^0000CCWeight:^000000 20",
       "________________________",
       "^0000CCRequirement:^000000",
-      "Base level 20",
-      "All classes except Novice"
+      "Base Level 20",
+      "All Jobs except Novice"
     },
     slotCount = 1,
-    ClassNum = 838
+    ClassNum = 838,
+    costume = false
   },
   [18750] = {
     unidentifiedDisplayName = "Unidentified Mask",
@@ -3451,7 +3450,7 @@ tbl_custom = {
     slotCount = 0,
     ClassNum = 0,
     costume = false
-  },
+  }
 }
 
 function itemAdder(curTable, refTable)

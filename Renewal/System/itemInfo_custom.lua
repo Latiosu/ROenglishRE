@@ -3336,6 +3336,36 @@ tbl_custom = {
     ClassNum = 0,
     costume = false
   },
+  [23266] = {
+    unidentifiedDisplayName = "Etran Bundle A",
+    unidentifiedResourceName = "햇빛의상자",
+    unidentifiedDescriptionName = { "" },
+    identifiedDisplayName = "Etran Bundle A",
+    identifiedResourceName = "햇빛의상자",
+    identifiedDescriptionName = {
+      "A box containing a Pantie and Etran's Undershirt.",
+      "________________________",
+      "^0000CCWeight:^000000 0"
+    },
+    slotCount = 0,
+    ClassNum = 0,
+    costume = false
+  },
+  [23294] = {
+    unidentifiedDisplayName = "Pororoca Shoes Bundle A",
+    unidentifiedResourceName = "햇빛의상자",
+    unidentifiedDescriptionName = { "" },
+    identifiedDisplayName = "Pororoca Shoes Bundle A",
+    identifiedResourceName = "햇빛의상자",
+    identifiedDescriptionName = {
+      "A box containing Pororoca Shoes and La'cryma Stick.",
+      "________________________",
+      "^0000CCWeight:^000000 0"
+    },
+    slotCount = 0,
+    ClassNum = 0,
+    costume = false
+  },
   [31437] = {
     unidentifiedDisplayName = "Unidentified Ribbon",
     unidentifiedResourceName = "리본",
@@ -3402,6 +3432,21 @@ tbl_custom = {
       "^0000CCDuration:^000000 30 seconds",
       "________________________",
       "^0000CCWeight:^000000 3"
+    },
+    slotCount = 0,
+    ClassNum = 0,
+    costume = false
+  },
+  [2000000] = {
+    unidentifiedDisplayName = "Naught Sieger Bundle A",
+    unidentifiedResourceName = "햇빛의상자",
+    unidentifiedDescriptionName = { "" },
+    identifiedDisplayName = "Naught Sieger Bundle A",
+    identifiedResourceName = "햇빛의상자",
+    identifiedDescriptionName = {
+      "A box containing both Twin Edges of Naught Sieger.",
+      "________________________",
+      "^0000CCWeight:^000000 0"
     },
     slotCount = 0,
     ClassNum = 0,

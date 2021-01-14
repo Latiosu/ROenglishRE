@@ -2822,6 +2822,44 @@ tbl_custom = {
     slotCount = 1,
     ClassNum = 1294
   },
+  [19460] = {
+    unidentifiedDisplayName = "Unidentified Hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+      "Can be identified by using a ^990099Magnifier^000000."
+    },
+    identifiedDisplayName = "Black Veil",
+    identifiedResourceName = "���������",
+    identifiedDescriptionName = {
+      "A black veil once said to be worn by a lonesome lady who lost someone dear.",
+      "________________________",
+      "Hit +20",
+      "Increases physical and magical damage on [Illusion of Vampire] monsters by 15%.",
+      "Reduces damage taken from [Illusion of Vampire] monsters by 15%.",
+      "________________________",
+      "If ^0000FFRefine Level^000000 is ^0000FF+7 or higher^000000:",
+      "Increases physical and magical damage on [Illusion of Vampire] monsters by an additional 15%",
+      "Reduces damage taken from [Illusion of Vampire] monsters by an additional 15%",
+      "________________________",
+      "If ^0000FFRefine Level^000000 is ^0000FF+8 or higher^000000:",
+      "Hit +30",
+      "________________________",
+      "If ^0000FFRefine Level^000000 is ^0000FF+9 or higher^000000:",
+      "Increases physical and magical damage on [Illusion of Vampire] monsters by an additional 20%",
+      "Reduces damage taken from [Illusion of Vampire] monsters by an additional 20%",
+      "________________________",
+      "^0000CCType:^000000 Headgear",
+      "^0000CCDefense:^000000 2",
+      "^0000CCPosition:^000000 Upper",
+      "^0000CCWeight:^000000 50",
+      "^0000CCRefineable:^000000 Yes",
+      "________________________",
+      "^0000CCRequirement:^000000",
+      "Base Level 130"
+    },
+    slotCount = 1,
+    ClassNum = 1173
+  },
   [19495] = {
     unidentifiedDisplayName = "Unidentified Glasses",
     unidentifiedResourceName = "�۷���",

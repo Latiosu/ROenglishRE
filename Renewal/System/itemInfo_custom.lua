@@ -3,11 +3,11 @@ dofile("System/itemInfo_true_V5.lua")
 tbl_custom = {
   [671] = {
     unidentifiedDisplayName = "Gold Coin",
-    unidentifiedResourceName = "ï¿½ï¿½È­",
+    unidentifiedResourceName = "±ÝÈ­",
     unidentifiedDescriptionName = {
     },
     identifiedDisplayName = "Gold Coin",
-    identifiedResourceName = "ï¿½ï¿½È­",
+    identifiedResourceName = "±ÝÈ­",
     identifiedDescriptionName = {
       "These golden coins can be earned through events and daily rewards.",
       " ",
@@ -20,12 +20,12 @@ tbl_custom = {
   },
   [2576] = {
     unidentifiedDisplayName = "Unidentified Garment",
-    unidentifiedResourceName = "ï¿½Äµï¿½",
+    unidentifiedResourceName = "ÈÄµå",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Heroic Backpack",
-    identifiedResourceName = "ï¿½ï¿½ï¿½è°¡ï¿½è³¶",
+    identifiedResourceName = "¸ðÇè°¡¹è³¶",
     identifiedDescriptionName = {
       "A small backpack with essential items for adventure.",
       "________________________",
@@ -78,12 +78,12 @@ tbl_custom = {
   },
   [5151] = {
     unidentifiedDisplayName = "Unidentified Hairband",
-    unidentifiedResourceName = "ï¿½Ó¸ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸Ó¸®¶ì",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Note Headphone",
-    identifiedResourceName = "ï¿½ï¿½Ç¥ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "À½Ç¥ÇìµåÆù",
     identifiedDescriptionName = {
       "A cool looking set of headphones that have earmuffs designed to resemble music notes.",
       "________________________",
@@ -103,12 +103,12 @@ tbl_custom = {
   },
   [5181] = {
     unidentifiedDisplayName = "Unidentified Helmet",
-    unidentifiedResourceName = "ï¿½ï¸§",
+    unidentifiedResourceName = "Çï¸§",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Helm of Darkness",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¾ÏÈæÀÇÅõ±¸",
     identifiedDescriptionName = {
       "A forboding helmet that hides part of the face. People wearing this have the appearance of Beelzebub.",
       "________________________",
@@ -133,7 +133,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Rideword Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½Ìµï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¶óÀÌµå¿öµå",
     identifiedDescriptionName = {
       "A hat designed to mimic the look of a terrible magic book which attacks people.",
       "________________________",
@@ -162,7 +162,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Dress Hat",
-    identifiedResourceName = "ï¿½å·¹ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "µå·¹½ºÇÞ",
     identifiedDescriptionName = {
       "A tiny and cute hat that can decorate a part of the head.",
       "This hat, along with a pretty dress, makes the wearer want to go on a picnic.",
@@ -198,7 +198,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Fantastic Wig",
-    identifiedResourceName = "È¯ï¿½ï¿½ï¿½ï¿½ï¿½Î°ï¿½ï¿½ï¿½",
+    identifiedResourceName = "È¯»óÀûÀÎ°¡¹ß",
     identifiedDescriptionName = {
       "Wig with red, white and black colors.",
       "________________________",
@@ -220,12 +220,12 @@ tbl_custom = {
   },
   [5278] = {
     unidentifiedDisplayName = "Unidentified Ribbon",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸®º»",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Yellow Ribbon",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "³ë¶õ»ö¸®º»",
     identifiedDescriptionName = {
       "It's a piece of ribbon that hangs to one side when worn that was created out of old Flags that was torn by bullets.",
       "________________________",
@@ -253,7 +253,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Chick Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½Æ¸ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "º´¾Æ¸®¸ðÀÚ",
     identifiedDescriptionName = {
       "A hat adorned with a cute chick that brings feelings of joy to those that see it hopping.",
       "________________________",
@@ -279,12 +279,12 @@ tbl_custom = {
   },
   [5305] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Å©",
+    unidentifiedResourceName = "¸¶½ºÅ©",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Pirate Dagger",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½Ç´ï¿½ï¿½",
+    identifiedResourceName = "ÇØÀûÀÇ´ë°Å",
     identifiedDescriptionName = {
       "A small silver knife that is held between your teeth to allow free use of your hands.",
       "________________________",
@@ -302,12 +302,12 @@ tbl_custom = {
   },
   [5311] = {
     unidentifiedDisplayName = "Unidentified Ribbon",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸®º»",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Large Hisbiscus",
-    identifiedResourceName = "Å«ï¿½ï¿½ï¿½Ìºï¿½Ä¿ï¿½ï¿½",
+    identifiedResourceName = "Å«ÇÏÀÌºñ½ºÄ¿½º",
     identifiedDescriptionName = {
       "A large hibiscus flower decoration. These flowers can only be seen in Ayothaya.",
       "________________________",
@@ -325,12 +325,12 @@ tbl_custom = {
   },
   [5314] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½º¸¶ÀÏ",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Hockey Mask",
-    identifiedResourceName = "ï¿½ï¿½Å°ï¿½ï¿½ï¿½ï¿½Å©",
+    identifiedResourceName = "ÇÏÅ°¸¶½ºÅ©",
     identifiedDescriptionName = {
       "This mask calls the urge to hold a weapon in one's hand and hurt people on the 13th of every month.",
       "________________________",
@@ -351,12 +351,12 @@ tbl_custom = {
   },
   [5315] = {
     unidentifiedDisplayName = "Unidentified Glasses",
-    unidentifiedResourceName = "ï¿½Û·ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "±Û·¡½º",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Observer",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¿ÉÀú¹ö",
     identifiedDescriptionName = {
       "A device that can measure opponent's power. Commoners have power level 5. Heroes have a power level over 9,000!",
       "________________________",
@@ -377,12 +377,12 @@ tbl_custom = {
   },
   [5322] = {
     unidentifiedDisplayName = "Unidentified Hairband",
-    unidentifiedResourceName = "ï¿½Ó¸ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸Ó¸®¶ì",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Scarf",
-    identifiedResourceName = "ï¿½ï¿½Ä«ï¿½ï¿½",
+    identifiedResourceName = "½ºÄ«ÇÁ",
     identifiedDescriptionName = {
       "Wonderful Kerchief for that loved.",
       "________________________",
@@ -402,12 +402,12 @@ tbl_custom = {
   },
   [5357] = {
     unidentifiedDisplayName = "Unidentified Hairband",
-    unidentifiedResourceName = "ï¿½Ó¸ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸Ó¸®¶ì",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Wings of Victory",
-    identifiedResourceName = "ï¿½Â¸ï¿½ï¿½Ç³ï¿½ï¿½ï¿½",
+    identifiedResourceName = "½Â¸®ÀÇ³¯°³",
     identifiedDescriptionName = {
       "This hair accessory is made of Valkyrie's jewel and feathers.",
       "________________________",
@@ -428,12 +428,12 @@ tbl_custom = {
   },
   [5358] = {
     unidentifiedDisplayName = "Unidentified Glasses",
-    unidentifiedResourceName = "ï¿½Û·ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "±Û·¡½º",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Peco Ears",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú³ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "ÆäÄÚÆäÄÚ³¯°³±Í",
     identifiedDescriptionName = {
       "An ornament wing created to look like Pecopeco wings.",
       "________________________",
@@ -459,7 +459,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Ship Captain Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¼±Àå¸ðÀÚ",
     identifiedDescriptionName = {
       "A hat of airship captain.",
       "________________________",
@@ -481,12 +481,12 @@ tbl_custom = {
   },
   [5361] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Å©",
+    unidentifiedResourceName = "¸¶½ºÅ©",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Gangster Scarf",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Ä«ï¿½ï¿½",
+    identifiedResourceName = "°»½ºÄ«ÇÁ",
     identifiedDescriptionName = {
       "A gangster's red scarf.",
       "________________________",
@@ -509,12 +509,12 @@ tbl_custom = {
   },
   [5362] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Å©",
+    unidentifiedResourceName = "¸¶½ºÅ©",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Ninja Scroll",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ÇµÎ·ç¸¶ï¿½ï¿½",
+    identifiedResourceName = "´ÑÀÚÀÇµÎ·ç¸¶¸®",
     identifiedDescriptionName = {
       "A scroll used by Ninjas to cast spells.",
       "________________________",
@@ -538,7 +538,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Koneko Hat",
-    identifiedResourceName = "ï¿½Ã¾ï¿½ï¿½ï¿½ï¿½Ï¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "´Ã¾îÁøÇÏ¾á°í¾çÀÌ",
     identifiedDescriptionName = {
       "A magical kitty hat which shows various expressions on its face.",
       "________________________",
@@ -561,12 +561,12 @@ tbl_custom = {
   },
   [5377] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Å©",
+    unidentifiedResourceName = "¸¶½ºÅ©",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Antique Smoking Pipe",
-    identifiedResourceName = "ï¿½ï¿½Æ¼Å©ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¾ØÆ¼Å©´ã¹î´ë",
     identifiedDescriptionName = {
       "A long smoking pipe used by gentlemen and nobility.",
       "________________________",
@@ -589,7 +589,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Tam",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¹ú·éÇÞ",
     identifiedDescriptionName = {
       "A large knitted hat that can be used to conceal long hair.",
       "________________________",
@@ -617,7 +617,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Snake Head",
-    identifiedResourceName = "ï¿½ï¿½Ó¸ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¹ì¸Ó¸®¸ðÀÚ",
     identifiedDescriptionName = {
       "This cute animated Boa will keep you company as you meander around on your adventures.",
       "________________________",
@@ -636,12 +636,12 @@ tbl_custom = {
   },
   [5389] = {
     unidentifiedDisplayName = "Unidentified Glasses",
-    unidentifiedResourceName = "ï¿½Û·ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "±Û·¡½º",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Angel Spirit",
-    identifiedResourceName = "Ãµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "Ãµ»çÀÇÀ¯·É",
     identifiedDescriptionName = {
       "A golden mask rumored to be worn by some ancient Goddess.",
       "________________________",
@@ -662,12 +662,12 @@ tbl_custom = {
   },
   [5401] = {
     unidentifiedDisplayName = "Unidentified Glasses",
-    unidentifiedResourceName = "ï¿½Û·ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "±Û·¡½º",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Black Frame Glasses",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×¾È°ï¿½",
+    identifiedResourceName = "°ËÀº»ÔÅ×¾È°æ",
     identifiedDescriptionName = {
       "Dark-colored plastic frame Locs.",
       "________________________",
@@ -688,12 +688,12 @@ tbl_custom = {
   },
   [5420] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½º¸¶ÀÏ",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Mask of Ifrit",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "ÀÌÇÁ¸®Æ®°¡¸é",
     identifiedDescriptionName = {
       "A mask of Ifrit, the spiritual owner of fire.",
       "________________________",
@@ -725,12 +725,12 @@ tbl_custom = {
   },
   [5421] = {
     unidentifiedDisplayName = "Unidentified Glasses",
-    unidentifiedResourceName = "ï¿½Û·ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "±Û·¡½º",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Ears of Ifrit",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ®ï¿½Ç±ï¿½",
+    identifiedResourceName = "ÀÌÇÁ¸®Æ®ÀÇ±Í",
     identifiedDescriptionName = {
       "A headgear which imitates ears of Ifrit, the spiritual owner of fire.",
       "________________________",
@@ -766,7 +766,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Hobgoblin's Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "µµ±úºñ¸ðÀÚ",
     identifiedDescriptionName = {
       "A hobgoblin's cute hat.",
       "________________________",
@@ -784,12 +784,12 @@ tbl_custom = {
   },
   [5462] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Å©",
+    unidentifiedResourceName = "¸¶½ºÅ©",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Spiked Scarf",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä«ï¿½ï¿½",
+    identifiedResourceName = "´ë¸ø¹ÚÈù½ºÄ«ÇÁ",
     identifiedDescriptionName = {
       "^000088Rental item^000000",
       "A scarf with terrifying spikes.",
@@ -812,12 +812,12 @@ tbl_custom = {
   },
   [5463] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Å©",
+    unidentifiedResourceName = "¸¶½ºÅ©",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Rainbow Scarf",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä«ï¿½ï¿½",
+    identifiedResourceName = "¹«Áö°³½ºÄ«ÇÁ",
     identifiedDescriptionName = {
       "A scarf with rainbow color.",
       "________________________",
@@ -842,7 +842,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Hat of Fortune",
-    identifiedResourceName = "ï¿½Ï´Ã¸ï¿½ï¿½ï¿½",
+    identifiedResourceName = "ÇÏ´Ã¸ðÀÚ",
     identifiedDescriptionName = {
       "A hat that celebrates luck provided by the stars.",
       "________________________",
@@ -870,7 +870,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Wind's Guide",
-    identifiedResourceName = "ï¿½Ù¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç¥",
+    identifiedResourceName = "¹Ù¶÷ÀÇÀÌÁ¤Ç¥",
     identifiedDescriptionName = {
       "A cap of post man who delivers letters with heart. Magic in the cap protects the wearer not to lose their way.",
       "________________________",
@@ -891,12 +891,12 @@ tbl_custom = {
   },
   [5467] = {
     unidentifiedDisplayName = "Unidentified Helmet",
-    unidentifiedResourceName = "ï¿½ï¸§",
+    unidentifiedResourceName = "Çï¸§",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Dragon Helm",
-    identifiedResourceName = "ï¿½å·¡ï¿½ï¿½ï¿½ï¸§",
+    identifiedResourceName = "µå·¡±ºÇï¸§",
     identifiedDescriptionName = {
       "A helmet made from hard scale of Dragon. The wearer of this headgear can get the great power of Dragon.",
       "________________________",
@@ -930,7 +930,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Reginleif's Wings",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ä·¹ï¿½Ìºï¿½ï¿½Ç³ï¿½ï¿½ï¿½",
+    identifiedResourceName = "·¹±ä·¹ÀÌºêÀÇ³¯°³",
     identifiedDescriptionName = {
       "A head accessory which is named after Valkyrie Reginleif. If someone wears this, they can get the blessing of god.",
       "________________________",
@@ -950,12 +950,12 @@ tbl_custom = {
   },
   [5483] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½º¸¶ÀÏ",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Odin's Mask",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ò¸¶½ï¿½Å©",
+    identifiedResourceName = "¿Àµò¸¶½ºÅ©",
     identifiedDescriptionName = {
       "A mask worn once worn by Odin during a fierce battle between the gods and humans.",
       "HIT -10",
@@ -976,12 +976,12 @@ tbl_custom = {
   },
   [5490] = {
     unidentifiedDisplayName = "Unidentified Helmet",
-    unidentifiedResourceName = "ï¿½ï¸§",
+    unidentifiedResourceName = "Çï¸§",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Anubis Helm",
-    identifiedResourceName = "ï¿½Æ´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¾Æ´©ºñ½ºÅõ±¸",
     identifiedDescriptionName = {
       "This ceremonial headdress holds the likeness of Anubis, god of the underworld.",
       "It is rumored that it empowers the wearer against powerful divine beings.",
@@ -1004,12 +1004,12 @@ tbl_custom = {
   },
   [5495] = {
     unidentifiedDisplayName = "Unidentified Helmet",
-    unidentifiedResourceName = "ï¿½ï¸§",
+    unidentifiedResourceName = "Çï¸§",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Power of Thor",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "³ú½ÅÁö·Â",
     identifiedDescriptionName = {
       "Grants those who wear it a small portion of the thunder god Thor.",
       "________________________",
@@ -1035,12 +1035,12 @@ tbl_custom = {
   },
   [5498] = {
     unidentifiedDisplayName = "Unidentified Helmet",
-    unidentifiedResourceName = "ï¿½ï¸§",
+    unidentifiedResourceName = "Çï¸§",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Wandering Wolf King Helmet",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½Ì´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¶°µ¹ÀÌ´Á´ë¿ÕÅõ±¸",
     identifiedDescriptionName = {
       "Made out of a Wolf King's fur and feels like you're surrounded by a dignified force when worn but basically worn for its looks",
       "________________________",
@@ -1061,12 +1061,12 @@ tbl_custom = {
   },
   [5548] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Å©",
+    unidentifiedResourceName = "¸¶½ºÅ©",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Scarlet Rose",
-    identifiedResourceName = "ï¿½ï¿½È«ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "ÁøÈ«ÀÇÀå¹Ì",
     identifiedDescriptionName = {
       "Roses are red",
       "and they're also thorny.",
@@ -1097,7 +1097,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Wild Rose Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½Ïµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¿ÍÀÏµå·ÎÁî¸ðÀÚ",
     identifiedDescriptionName = {
       "A hat which resembles the wild cat, Wild Rose.",
       "________________________",
@@ -1117,12 +1117,12 @@ tbl_custom = {
   },
   [5563] = {
     unidentifiedDisplayName = "Unidentified Helmet",
-    unidentifiedResourceName = "ï¿½ï¸§",
+    unidentifiedResourceName = "Çï¸§",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Dolor Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½Ç¸ï¿½ï¿½ï¿½",
+    identifiedResourceName = "°í³úÀÇ¸ðÀÚ",
     identifiedDescriptionName = {
       "A Dolor of Thanatos laying on your head. It's rumored that the doll is trying to speak with his owner.",
       "________________________",
@@ -1142,12 +1142,12 @@ tbl_custom = {
   },
   [5564] = {
     unidentifiedDisplayName = "Unidentified Helmet",
-    unidentifiedResourceName = "ï¿½ï¸§",
+    unidentifiedResourceName = "Çï¸§",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Crown of Deceit",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Ç¿Õ°ï¿½",
+    identifiedResourceName = "»ç±âÀÇ¿Õ°ü",
     identifiedDescriptionName = {
       "A deceptive crown that was once used to summon monsters.",
       "INT +4, MDEF +10",
@@ -1175,12 +1175,12 @@ tbl_custom = {
   },
   [5574] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Å©",
+    unidentifiedResourceName = "¸¶½ºÅ©",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Well-Chewed Pencil",
-    identifiedResourceName = "ï¿½Ô¿ï¿½ï¿½ï¿½ï¿½Â¿ï¿½ï¿½ï¿½",
+    identifiedResourceName = "ÀÔ¿¡¹«´Â¿¬ÇÊ",
     identifiedDescriptionName = {
       "A popular snack while taking tests. It makes one look more studious but, it's days may be numbered if it stays in somebody's mouth any longer.",
       "Concept created during the Summer 2008 Create a headgear Contest.",
@@ -1202,12 +1202,12 @@ tbl_custom = {
   },
   [5585] = {
     unidentifiedDisplayName = "Unidentified Hairband",
-    unidentifiedResourceName = "ï¿½Ó¸ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸Ó¸®¶ì",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Rune Hairband",
-    identifiedResourceName = "ï¿½ï¿½Åµï¿½Ó¸ï¿½ï¿½ï¿½",
+    identifiedResourceName = "·é¸Åµì¸Ó¸®¶ì",
     identifiedDescriptionName = {
       "A hairband embroidered with Runes and golden thread.",
       "________________________",
@@ -1234,7 +1234,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Desert Prince",
-    identifiedResourceName = "ï¿½ç¸·ï¿½Ç¿ï¿½ï¿½ï¿½",
+    identifiedResourceName = "»ç¸·ÀÇ¿ÕÀÚ",
     identifiedDescriptionName = {
       "This hat is coming from an old soldier who used to live in the desert.",
       "________________________",
@@ -1254,12 +1254,12 @@ tbl_custom = {
   },
   [5592] = {
     unidentifiedDisplayName = "Unidentified Ribbon",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸®º»",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Sigrun's Wings",
-    identifiedResourceName = "ï¿½ï¿½ï¿½Ì±×·ï¿½ï¿½Ç³ï¿½ï¿½ï¿½",
+    identifiedResourceName = "»çÀÌ±×·éÀÇ³¯°³",
     identifiedDescriptionName = {
       "Ear adornments that symbolize rebirth. They have the ability to change its effects depending on the job of the wearer.",
       "________________________",
@@ -1290,12 +1290,12 @@ tbl_custom = {
   },
   [5641] = {
     unidentifiedDisplayName = "Unidentified Glasses",
-    unidentifiedResourceName = "ï¿½Û·ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "±Û·¡½º",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Robo Eye",
-    identifiedResourceName = "ï¿½Îºï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "·Îº¸¾ÆÀÌ",
     identifiedDescriptionName = {
       "A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.",
       "________________________",
@@ -1317,12 +1317,12 @@ tbl_custom = {
   },
   [5680] = {
     unidentifiedDisplayName = "Unidentified Ribbon",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸®º»",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Hawk Eye",
-    identifiedResourceName = "ï¿½ï¿½ï¿½Ç´ï¿½",
+    identifiedResourceName = "¸ÅÀÇ´«",
     identifiedDescriptionName = {
       "This headgear makes you more sensitive and you could get high concentration.",
       "________________________",
@@ -1342,12 +1342,12 @@ tbl_custom = {
   },
   [5765] = {
     unidentifiedDisplayName = "Unidentified Ribbon",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸®º»",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Pitch Black Ribbon",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¸ï¿½ï¿½ï¿½",
+    identifiedResourceName = "°ËÀºÅ×ÀÏ¸®º»",
     identifiedDescriptionName = {
       "Dark neat black ribbon.",
       "________________________",
@@ -1370,12 +1370,12 @@ tbl_custom = {
   },
   [5800] = {
     unidentifiedDisplayName = "Unidentified Ribbon",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸®º»",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Blush of Groom",
-    identifiedResourceName = "ï¿½ß±×·ï¿½",
+    identifiedResourceName = "¹ß±×·¹",
     identifiedDescriptionName = {
       "A blushing impression of a bridegroom.",
       "________________________",
@@ -1396,7 +1396,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Star-Spangled Bandana",
-    identifiedResourceName = "iroï¿½Ã·ï¿½ï¿½×µÎ°ï¿½",
+    identifiedResourceName = "iroÇÃ·¡±×µÎ°Ç",
     identifiedDescriptionName = {
       "This stylish bandeezy expresses your patriotic spirit and makes you feel like some kind of professional grappler.",
       "________________________",
@@ -1417,12 +1417,12 @@ tbl_custom = {
   },
   [5897] = {
     unidentifiedDisplayName = "Unidentified Helmet",
-    unidentifiedResourceName = "ï¿½ï¸§",
+    unidentifiedResourceName = "Çï¸§",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Ascendant Crown",
-    identifiedResourceName = "ï¿½î¼¾ï¿½ï¿½Å©ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¾î¼¾µåÅ©¶ó¿î",
     identifiedDescriptionName = {
       "A replica of the legendary artifact left behind by the greatest Super Novice to ever walk the earth.",
       "The real one has been lost for ages, but this replica can imitate some of its awesome power.",
@@ -1457,12 +1457,12 @@ tbl_custom = {
   },
   [5898] = {
     unidentifiedDisplayName = "Unidentified Hairband",
-    unidentifiedResourceName = "ï¿½Ó¸ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸Ó¸®¶ì",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Autumn Headband",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½Ó¸ï¿½ï¿½ï¿½",
+    identifiedResourceName = "°¡À»¸Ó¸®¶ì",
     identifiedDescriptionName = {
       "A hairband with an array of autumn leaves attached to it. It displays the beauty of an autumn forest for all to see.",
       "________________________",
@@ -1489,12 +1489,12 @@ tbl_custom = {
   },
   [5899] = {
     unidentifiedDisplayName = "Unidentified Hairband",
-    unidentifiedResourceName = "ï¿½Ó¸ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸Ó¸®¶ì",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Black Ribbon",
-    identifiedResourceName = "ï¿½î¸¸ï¿½ï¿½ï¿½ï¿½ï¿½Ó¸ï¿½ï¿½ï¿½",
+    identifiedResourceName = "±î¸¸¸®º»¸Ó¸®¶ì",
     identifiedDescriptionName = {
       "A simple black ribbon that promotes focus no matter how intense the battle is.",
       "________________________",
@@ -1524,7 +1524,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Divine Guard Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½Çºï¿½È£",
+    identifiedResourceName = "½ÅÀÇº¸È£",
     identifiedDescriptionName = {
       "A majestic hat that displays the divine authority that has been invested in the wearer.",
       "________________________",
@@ -1554,7 +1554,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Focus Beret",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½Çºï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "ÁýÁßÀÇº£·¹¸ð",
     identifiedDescriptionName = {
       "A green beret that helps the user to refocus their energy into more meaningful attacks. The star on the front is inscribed with the character for Dragon.",
       "________________________",
@@ -1584,7 +1584,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Harvester Hat",
-    identifiedResourceName = "ï¿½ß¼ï¿½ï¿½Ç¸ï¿½ï¿½ï¿½",
+    identifiedResourceName = "Ãß¼öÀÇ¸ðÀÚ",
     identifiedDescriptionName = {
       "A good-luck hat worn by farmers to make sure they collect an exceptionally good harvest. Some say it was blessed by the Harvest Goddess herself.",
       "________________________",
@@ -1614,7 +1614,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Hitaikakushi",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÇµÎ°ï¿½",
+    identifiedResourceName = "Á×ÀºÀÚÀÇµÎ°Ç",
     identifiedDescriptionName = {
       "An otherwise normal ghost bandana with a red spiral insignia on the front. It demonstrates a strong connection between the wearer and the afterlife.",
       "________________________",
@@ -1654,7 +1654,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Inconspicuous Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ñ¸ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¾ÆÁÖÆò¹üÇÑ¸ðÀÚ",
     identifiedDescriptionName = {
       "A simple hat that would look inconspicuous in any crowd. Its very helpful to anyone who is trying to blend in.",
       "________________________",
@@ -1689,7 +1689,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Lyrica Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¸®¸®Ä«¸ðÀÚ",
     identifiedDescriptionName = {
       "A finely crafted hat designed just for minstrel.",
       "You can't see from the outside, but on the inside is written every song a Maestro needs to make it big!",
@@ -1717,12 +1717,12 @@ tbl_custom = {
   },
   [5906] = {
     unidentifiedDisplayName = "Unidentified Helmet",
-    unidentifiedResourceName = "ï¿½ï¸§",
+    unidentifiedResourceName = "Çï¸§",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Oni Horns",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½Ç»ï¿½",
+    identifiedResourceName = "¿À´ÏÀÇ»Ô",
     identifiedDescriptionName = {
       "Twisted horns that were supposedly crafted to look like those of a race of demons that died out long ago.",
       "Apparently placing them on your head can grant you a small amount of their power.",
@@ -1755,7 +1755,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Sea Captain Hat",
-    identifiedResourceName = "ï¿½Ù´ï¿½Ä¸Æ¾ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¹Ù´ÙÄ¸Æ¾¸ðÀÚ",
     identifiedDescriptionName = {
       "A crisp white hat most often used by the captains of large naval craft.",
       "It came to be seen as a sign of unwavering strength in the eyes of naval crews everywhere.",
@@ -1788,7 +1788,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Wing Headphone",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "³¯°³ÇìµåÆù",
     identifiedDescriptionName = {
       "This headphone is the latest style in the more hip regions of Rune Midgard.",
       "________________________",
@@ -1808,11 +1808,11 @@ tbl_custom = {
   },
   [12214] = {
     unidentifiedDisplayName = "Convex Mirror",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½Ï°Å¿ï¿½",
+    unidentifiedResourceName = "º¼·Ï°Å¿ï",
     unidentifiedDescriptionName = {
     },
     identifiedDisplayName = "Convex Mirror",
-    identifiedResourceName = "ï¿½ï¿½ï¿½Ï°Å¿ï¿½",
+    identifiedResourceName = "º¼·Ï°Å¿ï",
     identifiedDescriptionName = {
       "A clean convex mirror that can be used to detect the appearance of ^FF0000Boss^000000 monsters.",
       "10 minute duration that is canceled when the player leaves the map or logs out.",
@@ -1828,11 +1828,11 @@ tbl_custom = {
   },
   [12411] = {
     unidentifiedDisplayName = "HE Battle Manual",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½È¸ï¿½ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¿À·¡µÈ¸¶¹ý¼­",
     unidentifiedDescriptionName = {
     },
     identifiedDisplayName = "HE Battle Manual",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½È¸ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¿À·¡µÈ¸¶¹ý¼­",
     identifiedDescriptionName = {
       "This well written, detailed manual explains High Efficiency battle methods.",
       "^000088EXP rate increases to 400% for 30 minutes.^000000",
@@ -1844,11 +1844,11 @@ tbl_custom = {
   },
   [17229] = {
     unidentifiedDisplayName = "Infinite Fly Wing Box",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½È³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¿À·¡µÈ³ë¶õ»óÀÚ",
     unidentifiedDescriptionName = {
     },
     identifiedDisplayName = "Infinite Fly Wing Box",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½È³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¿À·¡µÈ³ë¶õ»óÀÚ",
     identifiedDescriptionName = {
       "A box containing one Infinite Flywing. Duration 1 day.",
       "________________________",
@@ -1871,7 +1871,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Evil Marching Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Ñ¸ï¿½Äªï¿½ï¿½",
+    identifiedResourceName = "»ç¾ÇÇÑ¸¶ÄªÇÞ",
     identifiedDescriptionName = {
       "A dark marching hat worn by members of an undead band from Niffleheim.",
       "________________________",
@@ -1903,7 +1903,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Skull Cap",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Ä¸",
+    identifiedResourceName = "½ºÄÃÄ¸",
     identifiedDescriptionName = {
       "A driver's cap with a menacing skull on the band.",
       "________________________",
@@ -1943,12 +1943,12 @@ tbl_custom = {
   },
   [18540] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½º¸¶ÀÏ",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Demon Mask",
-    identifiedResourceName = "ï¿½Ç¸ï¿½ï¿½Ç°ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¾Ç¸¶ÀÇ°¡¸é",
     identifiedDescriptionName = {
       "A mask worn by an ancient Rune Midgardian race that worshipped demons.",
       "________________________",
@@ -1980,7 +1980,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Little Feather Hat",
-    identifiedResourceName = "ï¿½ï¿½Æ²ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¸®Æ²Æä´õÇÞ",
     identifiedDescriptionName = {
       "A soft feathered archer's cap that gives you that dash of Errol Flynn flair.",
       "________________________",
@@ -2014,7 +2014,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Benevolent Guardian",
-    identifiedResourceName = "ï¿½Ú¾ï¿½ï¿½Ç¼ï¿½È£",
+    identifiedResourceName = "¹Ú¾ÖÀÇ¼öÈ£",
     identifiedDescriptionName = {
       "A headdress worn by high level members of divine warrior members.",
       "________________________",
@@ -2044,12 +2044,12 @@ tbl_custom = {
   },
   [18550] = {
     unidentifiedDisplayName = "Unidentified Hairband",
-    unidentifiedResourceName = "ï¿½Ó¸ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸Ó¸®¶ì",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Asgard Blessing",
-    identifiedResourceName = "ï¿½Æ½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½àº¹",
+    identifiedResourceName = "¾Æ½º°¡¸£µåÀÇÃàº¹",
     identifiedDescriptionName = {
       "When the Guardian of Midgard, Luthien Silvermoon, was summoned by the gods to ascend to Asgard, a nice pair of wings made of celestial energy appeared, making a halo around his head.",
       "________________________",
@@ -2071,12 +2071,12 @@ tbl_custom = {
   },
   [18563] = {
     unidentifiedDisplayName = "Unidentified Hairband",
-    unidentifiedResourceName = "ï¿½Ó¸ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸Ó¸®¶ì",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Heart Wing Hairband",
-    identifiedResourceName = "ï¿½ï¿½Æ®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "ÇÏÆ®³¯°³Çì¾î¹êµå",
     identifiedDescriptionName = {
       "A girlish hairband with wings and lace.",
       "________________________",
@@ -2106,7 +2106,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Strawberry Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "µþ±â¸ðÀÚ",
     identifiedDescriptionName = {
       "A ripe strawberry shaped hat.",
       "________________________",
@@ -2125,12 +2125,12 @@ tbl_custom = {
   },
   [18597] = {
     unidentifiedDisplayName = "Unidentified Helmet",
-    unidentifiedResourceName = "ï¿½ï¸§",
+    unidentifiedResourceName = "Çï¸§",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Mercury Riser",
-    identifiedResourceName = "ï¿½ï¿½Å¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¸ÓÅ¥¸®ÀÇÅõ±¸",
     identifiedDescriptionName = {
       "Created for military purpose, this hat boosts your fighting abilities.",
       "________________________",
@@ -2164,7 +2164,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Cow Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½Ò¸ï¿½ï¿½ï¿½",
+    identifiedResourceName = "Á¥¼Ò¸ðÀÚ",
     identifiedDescriptionName = {
       "A hat which is modeled on a cow. There is rumor that If you put this on while you are sleeping, you could meet a benevolant godly cow.",
       "________________________",
@@ -2188,7 +2188,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Ignis Cap",
-    identifiedResourceName = "ï¿½Ì±×´Ï½ï¿½Ä¸",
+    identifiedResourceName = "ÀÌ±×´Ï½ºÄ¸",
     identifiedDescriptionName = {
       "A mysterious hat from Captain Ignis.",
       "________________________",
@@ -2212,12 +2212,12 @@ tbl_custom = {
   },
   [18666] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Å©",
+    unidentifiedResourceName = "¸¶½ºÅ©",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "CD in Mouth",
-    identifiedResourceName = "ï¿½Ô¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½Å©",
+    identifiedResourceName = "ÀÔ¿¡¹«´ÂÄÞÆÑÆ®µð½ºÅ©",
     identifiedDescriptionName = {
       "It feels as if massive data stored in compact disc is absorbed into the brain through the mouth.",
       "________________________",
@@ -2242,7 +2242,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Droopy Turtle Hat",
-    identifiedResourceName = "ï¿½Ã¾ï¿½ï¿½ï¿½ï¿½Û¸ï¿½ï¿½ï¿½",
+    identifiedResourceName = "´Ã¾îÁøÆÛ¸ÓÅÍ",
     identifiedDescriptionName = {
       "A hat that curses nearby people to be lazy.",
       "________________________",
@@ -2265,8 +2265,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Chibi Pope",
-    identifiedResourceName = "Å¸ï¿½ï¿½ï¿½ï¿½È²ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
-    identifiedDescriptionName = {
+    identifiedResourceName = "Å¸·¹±³È²ÀÎÇü¸ðÀÚ",
       "The Chibi Pope wishes to escape her duties in Rachel so she's taking a sightseeing vacation with the assistance of helpful Adventurers!",
       "________________________",
       "MDEF +7",
@@ -2301,7 +2300,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Sleeping Kitty Cat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½Ú´Â°ï¿½ï¿½ï¿½ï¿½Ì¸ï¿½ï¿½ï¿½",
+    identifiedResourceName = "ÀáÀÚ´Â°í¾çÀÌ¸ðÀÚ",
     identifiedDescriptionName = {
       "Hat that refer to shape of sleeping cat. If you wake up sleeping cat, you will be suffered.",
       "________________________",
@@ -2321,12 +2320,12 @@ tbl_custom = {
   },
   [18750] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Å©",
+    unidentifiedResourceName = "¸¶½ºÅ©",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Poker Card in Mouth",
-    identifiedResourceName = "ï¿½Ô¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿Ä«ï¿½ï¿½",
+    identifiedResourceName = "ÀÔ¿¡¹«´ÂÆ÷Ä¿Ä«µå",
     identifiedDescriptionName = {
       "Gives you a feeling of advantage over your enemies.",
       "________________________",
@@ -2351,7 +2350,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Shrine Maiden Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½Ç¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¼ºÀÚÀÇ¸®º»¸ðÀÚ",
     identifiedDescriptionName = {
       "A ribbon once worn by a shrine maiden as she fought off hordes of demons and youkai.",
       "Wearing it demonstrates - and rewards - your resolve to follow the same path.",
@@ -2386,7 +2385,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Sorcerer's Night Cap",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç³ï¿½ï¿½ï¿½Æ®Ä¸",
+    identifiedResourceName = "¸ÅÁö¼ÇÀÇ³ªÀÌÆ®Ä¸",
     identifiedDescriptionName = {
       "A hat that promotes a sophisticated yet sleepy look. It once belonged to an ancient magician who was well known for her vast knowledge and lazy behaviour, to the point she was nicknamed 'The Great Unmoving Library'.",
       "________________________",
@@ -2420,7 +2419,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Plain Black Mage Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Ñºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "Æò¹üÇÑºí·¢¸ÅÁö¼ÇÇÞ",
     identifiedDescriptionName = {
       "Just an ordinary black magician's hat. For some reason, you feel somewhat extraordinary while wearing it.",
       "________________________",
@@ -2455,7 +2454,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Night Sparrow Hat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ï¿½Ð·Î¿ï¿½ï¿½ï¿½",
+    identifiedResourceName = "³ªÀÌÆ®½ºÆÐ·Î¿ìÇÞ",
     identifiedDescriptionName = {
       "A hat named after the mysterious bird that sings at night. It's song is used to cause night blindness to mask its true form in order to eat humans that stray too deep into the forest.",
       "________________________",
@@ -2487,7 +2486,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Jejecap",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Ä¸",
+    identifiedResourceName = "Á¦Á¦Ä¸",
     identifiedDescriptionName = {
       "A colorful headgear for JeJemon. It created a massive trend locally during 2010-2011 era.",
       "________________________",
@@ -2508,12 +2507,12 @@ tbl_custom = {
   },
   [18934] = {
     unidentifiedDisplayName = "Unidentified Hairband",
-    unidentifiedResourceName = "ï¿½Ó¸ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸Ó¸®¶ì",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Fox Ear Ribbons",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Í¹ï¿½ï¸®ï¿½ï¿½",
+    identifiedResourceName = "¿©¿ì±Í¹æ¿ï¸®º»",
     identifiedDescriptionName = {
       "A cute headgear that imitate the ears of fox with small bells attached on it.",
       "________________________",
@@ -2543,12 +2542,12 @@ tbl_custom = {
   },
   [19133] = {
     unidentifiedDisplayName = "Hairband",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½º¸¶ÀÏ",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Odin's Mask",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ò¸¶½ï¿½Å©",
+    identifiedResourceName = "¿Àµò¸¶½ºÅ©",
     identifiedDescriptionName = {
       "A mask worn once worn by Odin during a fierce battle between the gods and humans.",
       "________________________",
@@ -2567,12 +2566,12 @@ tbl_custom = {
   },
   [19249] = {
     unidentifiedDisplayName = "Unidentified Hat",
-    unidentifiedResourceName = "ï¿½Ó¸ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸Ó¸®¶ì",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Spell Circuit",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ç¼­Å¶",
+    identifiedResourceName = "½ºÆç¼­Å¶",
     identifiedDescriptionName = {
       "The magic circle that imaged the property.",
       "It feels like you can use a powerful magic just to wear it.",
@@ -2636,12 +2635,12 @@ tbl_custom = {
   },
   [19263] = {
     unidentifiedDisplayName = "Unidentified Helmet",
-    unidentifiedResourceName = "ï¿½ï¸§",
+    unidentifiedResourceName = "Çï¸§",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "General's Helm",
-    identifiedResourceName = "ï¿½å±ºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "Àå±ºÀÇÅõ±¸",
     identifiedDescriptionName = {
       "A helmet said to be used by a brave general.",
       "________________________",
@@ -2687,7 +2686,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Fancy Feather Hat",
-    identifiedResourceName = "CÅ¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "CÅ¬·¡½ÃÄÃÆä´õÇÞ",
     identifiedDescriptionName = {
       "A small hat with a very impressive leather material.",
       "Chic coloring fills the mature.",
@@ -2780,7 +2779,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Amistr Beret",
-    identifiedResourceName = "ï¿½Æ¹Ì½ï¿½Æ®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "¾Æ¹Ì½ºÆ®¸£º£·¹¸ð",
     identifiedDescriptionName = {
       "A beret made from the ear of Amistr.",
       "________________________",
@@ -2829,7 +2828,7 @@ tbl_custom = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Black Veil",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "°ËÀº¸é»çÆ÷",
     identifiedDescriptionName = {
       "A black veil once said to be worn by a lonesome lady who lost someone dear.",
       "________________________",
@@ -2862,12 +2861,12 @@ tbl_custom = {
   },
   [19495] = {
     unidentifiedDisplayName = "Unidentified Glasses",
-    unidentifiedResourceName = "ï¿½Û·ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "±Û·¡½º",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Diabolus Wing",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ãµï¿½ç³¯ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "ºí·¯µðÃµ»ç³¯°³±Í",
     identifiedDescriptionName = {
       "All Stat +10",
       "Increases damage against monsters in ^0033CCTemple of Demon God^000000 by 30%.",
@@ -2919,12 +2918,12 @@ tbl_custom = {
   },
   [20195] = {
     unidentifiedDisplayName = "Unidentified Mask",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½º¸¶ÀÏ",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
     identifiedDisplayName = "Scratching Cat",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½ï¿½Â°ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "ÇÒÄû´Â°í¾çÀÌ",
     identifiedDescriptionName = {
       "This darn cat has chosen its target, your face!",
       "________________________",
@@ -2939,10 +2938,10 @@ tbl_custom = {
   },
   [22000] = {
     unidentifiedDisplayName = "Unidentified Shoes",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½´Áî",
     unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Temporal STR Boots",
-    identifiedResourceName = "ï¿½Ã°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "½Ã°£ÀÇÈûºÎÃ÷",
     identifiedDescriptionName = {
       "These boots are obviously old but they show no signs of wear and tear.",
       "________________________",
@@ -2972,10 +2971,10 @@ tbl_custom = {
   },
   [22001] = {
     unidentifiedDisplayName = "Unidentified Shoes",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½´Áî",
     unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Temporal INT Boots",
-    identifiedResourceName = "ï¿½Ã°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Âºï¿½ï¿½ï¿½",
+    identifiedResourceName = "½Ã°£ÀÇÁö·ÂºÎÃ÷",
     identifiedDescriptionName = {
       "These boots are obviously old but they show no signs of wear and tear.",
       "________________________",
@@ -3006,10 +3005,10 @@ tbl_custom = {
   },
   [22002] = {
     unidentifiedDisplayName = "Unidentified Shoes",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½´Áî",
     unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Temporal AGI Boots",
-    identifiedResourceName = "ï¿½Ã°ï¿½ï¿½Ç¹ï¿½Ã¸ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "½Ã°£ÀÇ¹ÎÃ¸ºÎÃ÷",
     identifiedDescriptionName = {
       "These boots are obviously old but they show no signs of wear and tear.",
       "________________________",
@@ -3039,10 +3038,10 @@ tbl_custom = {
   },
   [22003] = {
     unidentifiedDisplayName = "Unidentified Shoes",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½´Áî",
     unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Temporal VIT Boots",
-    identifiedResourceName = "ï¿½Ã°ï¿½ï¿½ï¿½Ã¼ï¿½Âºï¿½ï¿½ï¿½",
+    identifiedResourceName = "½Ã°£ÀÇÃ¼·ÂºÎÃ÷",
     identifiedDescriptionName = {
       "These boots are obviously old but they show no signs of wear and tear.",
       "________________________",
@@ -3071,10 +3070,10 @@ tbl_custom = {
   },
   [22004] = {
     unidentifiedDisplayName = "Unidentified Shoes",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½´Áî",
     unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Temporal DEX Boots",
-    identifiedResourceName = "ï¿½Ã°ï¿½ï¿½Ç¼ï¿½ï¿½ï¿½ï¿½Öºï¿½ï¿½ï¿½",
+    identifiedResourceName = "½Ã°£ÀÇ¼ÕÀçÁÖºÎÃ÷",
     identifiedDescriptionName = {
       "These boots are obviously old but they show no signs of wear and tear.",
       "________________________",
@@ -3105,10 +3104,10 @@ tbl_custom = {
   },
   [22005] = {
     unidentifiedDisplayName = "Unidentified Shoes",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½´Áî",
     unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Temporal LUK Boots",
-    identifiedResourceName = "ï¿½Ã°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "½Ã°£ÀÇÇà¿îºÎÃ÷",
     identifiedDescriptionName = {
       "These boots are obviously old but they show no signs of wear and tear.",
       "________________________",
@@ -3139,10 +3138,10 @@ tbl_custom = {
   },
   [22006] = {
     unidentifiedDisplayName = "Unidentified Shoes",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½´Áî",
     unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Temporal STR Boots",
-    identifiedResourceName = "ï¿½Ã°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "½Ã°£ÀÇÈûºÎÃ÷",
     identifiedDescriptionName = {
       "These boots are obviously old but they show no signs of wear and tear.",
       "________________________",
@@ -3172,10 +3171,10 @@ tbl_custom = {
   },
   [22007] = {
     unidentifiedDisplayName = "Unidentified Shoes",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½´Áî",
     unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Temporal VIT Boots",
-    identifiedResourceName = "ï¿½Ã°ï¿½ï¿½ï¿½Ã¼ï¿½Âºï¿½ï¿½ï¿½",
+    identifiedResourceName = "½Ã°£ÀÇÃ¼·ÂºÎÃ÷",
     identifiedDescriptionName = {
       "These boots are obviously old but they show no signs of wear and tear.",
       "________________________",
@@ -3204,10 +3203,10 @@ tbl_custom = {
   },
   [22008] = {
     unidentifiedDisplayName = "Unidentified Shoes",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½´Áî",
     unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Temporal DEX Boots",
-    identifiedResourceName = "ï¿½Ã°ï¿½ï¿½Ç¼ï¿½ï¿½ï¿½ï¿½Öºï¿½ï¿½ï¿½",
+    identifiedResourceName = "½Ã°£ÀÇ¼ÕÀçÁÖºÎÃ÷",
     identifiedDescriptionName = {
       "These boots are obviously old but they show no signs of wear and tear.",
       "________________________",
@@ -3238,10 +3237,10 @@ tbl_custom = {
   },
   [22009] = {
     unidentifiedDisplayName = "Unidentified Shoes",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½´Áî",
     unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Temporal INT Boots",
-    identifiedResourceName = "ï¿½Ã°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Âºï¿½ï¿½ï¿½",
+    identifiedResourceName = "½Ã°£ÀÇÁö·ÂºÎÃ÷",
     identifiedDescriptionName = {
       "These boots are obviously old but they show no signs of wear and tear.",
       "________________________",
@@ -3272,10 +3271,10 @@ tbl_custom = {
   },
   [22010] = {
     unidentifiedDisplayName = "Unidentified Shoes",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½´Áî",
     unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Temporal AGI Boots",
-    identifiedResourceName = "ï¿½Ã°ï¿½ï¿½Ç¹ï¿½Ã¸ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "½Ã°£ÀÇ¹ÎÃ¸ºÎÃ÷",
     identifiedDescriptionName = {
       "These boots are obviously old but they show no signs of wear and tear.",
       "________________________",
@@ -3305,10 +3304,10 @@ tbl_custom = {
   },
   [22011] = {
     unidentifiedDisplayName = "Unidentified Shoes",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "½´Áî",
     unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
     identifiedDisplayName = "Temporal LUK Boots",
-    identifiedResourceName = "ï¿½Ã°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
+    identifiedResourceName = "½Ã°£ÀÇÇà¿îºÎÃ÷",
     identifiedDescriptionName = {
       "These boots are obviously old but they show no signs of wear and tear.",
       "________________________",
@@ -3339,7 +3338,7 @@ tbl_custom = {
   },
   [31437] = {
     unidentifiedDisplayName = "Unidentified Ribbon",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸®º»",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
@@ -3359,7 +3358,7 @@ tbl_custom = {
   },
   [31452] = {
     unidentifiedDisplayName = "Unidentified Ribbon",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½",
+    unidentifiedResourceName = "¸®º»",
     unidentifiedDescriptionName = {
       "Can be identified by using a ^990099Magnifier^000000."
     },
@@ -3379,11 +3378,11 @@ tbl_custom = {
   },
   [40000] = {
     unidentifiedDisplayName = "Choco Point Voucher",
-    unidentifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Ä«ï¿½ï¿½",
+    unidentifiedResourceName = "±³ÅëÄ«µå",
     unidentifiedDescriptionName = {
     },
     identifiedDisplayName = "Choco Point Voucher",
-    identifiedResourceName = "ï¿½ï¿½ï¿½ï¿½Ä«ï¿½ï¿½",
+    identifiedResourceName = "±³ÅëÄ«µå",
     identifiedDescriptionName = {
       "A valuable-looking voucher made out of chewy material. You will receive 1,000 Choco Points upon consuming it.",
       "^ffffff_^000000",
@@ -3393,21 +3392,21 @@ tbl_custom = {
     ClassNum = 0
   },
   [100231] = {
-	unidentifiedDisplayName = "Golden X",
-	unidentifiedResourceName = "Ref_T_Potion",
-	unidentifiedDescriptionName = { "" },
-	identifiedDisplayName = "Golden X",
-	identifiedResourceName = "Ref_T_Potion",
-	identifiedDescriptionName = { 
-		"^0000CCEffect:^000000 Decreases damage taken from reflected melee damage by 100%.",
-		"^0000CCDuration:^000000 30 seconds",
-		"________________________",
-		"^0000CCWeight:^000000 3"
-	},
-	slotCount = 0,
-	ClassNum = 0,
-	costume = false
-},
+    unidentifiedDisplayName = "Golden X",
+    unidentifiedResourceName = "Ref_T_Potion",
+    unidentifiedDescriptionName = { "" },
+    identifiedDisplayName = "Golden X",
+    identifiedResourceName = "Ref_T_Potion",
+    identifiedDescriptionName = {
+      "^0000CCEffect:^000000 Decreases damage taken from reflected melee damage by 100%.",
+      "^0000CCDuration:^000000 30 seconds",
+      "________________________",
+      "^0000CCWeight:^000000 3"
+    },
+    slotCount = 0,
+    ClassNum = 0,
+    costume = false
+  },
 }
 
 function itemAdder(curTable, refTable)

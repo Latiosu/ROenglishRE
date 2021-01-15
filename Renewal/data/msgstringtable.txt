@@ -3294,7 +3294,7 @@ Headgear#
 Equipment#
 Consumables#
 Rental#
-Limited Time#
+Packages#
 Function#
 Specials#
 Buy#

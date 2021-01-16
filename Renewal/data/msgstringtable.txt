@@ -3769,8 +3769,8 @@ Enchanting Shadow effect has been canceled.#
 Subtotal Count On#
 Subtotal Count Off#
 Target AP is the maximum.#
-Confirm purchasing these items? %d Choco Points will be deducted.#
-Confirm purchasing these items? %d Choco Points and %d Kafra Points will be deducted.#
+Confirm purchasing these items? %d Points will be deducted.#
+Confirm purchasing these items? %d Points and %d Kafra Points will be deducted.#
 Requires %d Servant Weapon.#
 https://member.gnjoy.com.tw/billing.aspx#
 Reverse sort#

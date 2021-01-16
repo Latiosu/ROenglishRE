@@ -1252,7 +1252,7 @@ This character will not receive any EXP penalty if killed within the next 30 min
 Regular item drops from monsters will be doubled for the next 30 minutes.#
 Boss Monster Map Information for the next 10 minutes.#
 Confirm items to purchase? %d points will be deducted from your total Choco Points.#
-You do not have enough Choco Points.#
+You do not have enough Points.#
  ^ff0000Expiration Date: %s^000000#
  The '%s' item will disappear in %d minutes.#
  '%s' item will be deleted from the Inventory in 1 minute.#
@@ -1327,7 +1327,7 @@ Block all party invitations.#
 Allow all party invitations.#
 This item will be permanently bound to this character once it is equipped. Do you really want to equip this item?#
 %s is now permanently bound to this character.#
-You do not have enough Choco Points. Please enter whether you have free credit points.#
+You do not have enough Points. Please enter whether you have free credit points.#
 Request to Join Party#
 Display WOE Info#
 Memorial Dungeon %s's reservation has been canceled.#

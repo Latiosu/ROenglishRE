@@ -782,6 +782,32 @@ tbl_custom = {
     slotCount = 1,
     ClassNum = 430
   },
+  [5433] = {
+    unidentifiedDisplayName = "Unidentified Hat",
+    unidentifiedResourceName = "캡",
+    unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+    identifiedDisplayName = "Golden Laurel",
+    identifiedResourceName = "황금월계수",
+    identifiedDescriptionName = {
+      "A golden laurel crown weaved from olive leaves.",
+      "________________________",
+      "Gain 4% bonus experience from monsters killed.",
+      "If refined to +5, adds +2% bonus experience.",
+      "If refined to +7, adds +2% bonus experience.",
+      "If refined to +8 or higher, adds +2% bonus experience.",
+      "Bring this to Frank in Geffen to have him change it to a Promethean Crown costume that will keep it's bonus EXP stat.",
+      "________________________",
+      "^0000CCType:^000000 Headgear",
+      "^0000CCDefense:^000000 0",
+      "^0000CCPosition:^000000 Upper",
+      "^0000CCWeight:^000000 10",
+      "________________________",
+      "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 434,
+    costume = false
+  },
   [5462] = {
     unidentifiedDisplayName = "Unidentified Mask",
     unidentifiedResourceName = "마스크",

@@ -2504,6 +2504,36 @@ tbl_custom = {
     slotCount = 1,
     ClassNum = 913
   },
+  [18849] = {
+    unidentifiedDisplayName = "Unidentified Hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+    identifiedDisplayName = "Celine Ribbon",
+    identifiedResourceName = "¼¿¸°´ÀÀÇ¸®º»",
+    identifiedDescriptionName = {
+      "A luxurious ribbon with golden border, has been abandoned by Kimi for a long tme ago.",
+      "________________________",
+      "DEX +3",
+      "MATK +40",
+      "________________________",
+      "^0000FFFor each Refine Level^000000:",
+      "MATK +7",
+      "________________________",
+      "Recover 200 HP when killing enemy with magical attack.",
+      "________________________",
+      "Drain 50 HP every 5 second when equipped.",
+      "________________________",
+      "^0000CCType:^000000 Headgear",
+      "^0000CCDefense:^000000 0",
+      "^0000CCPosition:^000000 Upper",
+      "^0000CCWeight:^000000 20",
+      "^0000CCEnchantable:^000000 Yes",
+      "________________________",
+      "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 1,
+    ClassNum = 967
+  },
   [18885] = {
     unidentifiedDisplayName = "Unidentified Hat",
     unidentifiedResourceName = "Ä¸",

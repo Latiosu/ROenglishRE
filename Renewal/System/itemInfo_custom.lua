@@ -3032,6 +3032,28 @@ tbl_custom = {
     slotCount = 0,
     ClassNum = 1292
   },
+  [20714] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Assassin Muffler",
+		identifiedResourceName = "로키의머플러",
+		identifiedDescriptionName = {
+			"A muffler worn by eastern group of assassin.",
+			"________________________",
+			"^0000FFFor each Refine Level^000000 equal or above ^0000FF+6^000000:",
+			"AGI +2",
+			"________________________",
+			"^0000CCType:^000000 Garment",
+			"^0000CCDefense:^000000 16",
+			"^0000CCWeight:^000000 10",
+			"________________________",
+			"^0000CCRequirement:^000000",
+			"Base Level 50"
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
   [22000] = {
     unidentifiedDisplayName = "Unidentified Shoes",
     unidentifiedResourceName = "슈즈",

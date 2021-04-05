@@ -89,6 +89,7 @@ Item Description:
 	"Bonus ^CC6600STR^000000 is at least ^FF0000+10^000000:",
 	"^CC6600Base Level^000000 is at least ^FF0000100^000000:",
 	"^CC6600Base Level^000000 is ^FF000099^000000 or less:",
+	"^CC6600Base Level^000000 is less than ^FF0000175^000000:",
 	"For each ^0000FF20^000000 base ^CC6600STR^000000:",
 	"For each ^0000FF20^000000 combined sum of base ^CC6600AGI^000000 and ^CC6600VIT^000000:",
 	"For each ^0000FF50 ^CC6600Base Level^000000:",
@@ -110,8 +111,24 @@ Item Description:
 	"Increases HP Recovery Rate by %.",
 	"Increases SP Recovery Rate by %.",
 	"Attack Range: x cells",
+	
+	"Inflict % more damage on ^0033CC<Monster>^000000.",
+	
+	"Increases physical damage against ^FF000<Race/Size/Class>^000000 race/sized/class monsters by %.",
+	"Increases physical damage against ^<Element>^000000 elemental monsters by %.",
+	"Increases magical damage against ^FF000<Race/Size/Class>^000000 race/sized/class monsters by %.",
+	"Increases magical damage against ^<Element>^000000 elemental monsters by %.",
+	"Increases physical and magical damage against ^FF000<Race/Size/Class>^000000 race/sized/class monsters by %.",
+	"Increases physical and magical damage against ^<Element>^000000 elemental monsters by %.",
+	"Increases physical and magical damage on Memorial Dungeon's ^0033CC<Instance Name>^000000 monsters by 15%.",
+	
+	"Decreases damage taken from ^FF000<Race/Size/Class>^000000 race/sized/class monsters by %.",
+	"Decreases damage taken from ^<Element>^000000 elemental monsters by %.",
+	
+	- Consumable Items:
 	^0033CC = Specific Recovery Item
 	^990099Recovery Items^000000
+	"^0000CCEffect:^000000", > Used at buff/heal items
 	
 	> 4th Classes:
 	"POW +",
@@ -122,10 +139,10 @@ Item Description:
 	"CRT +",
 	"P.ATK +",
 	"S.MATK +",
-	"H.Plus +",
-	"C.Rate +",
-	"Res +",
-	"Mres +",
+	"H.PLUS +",
+	"C.RATE +",
+	"RES +",
+	"MRES +",
 	
 	"<STAT> +1 multiplied with total skill level of ^0033CC<Class>^000000's exclusive/related skills:",
 	"^009900<Skill List> and <Last Skill>^000000",
@@ -172,6 +189,7 @@ Item Description:
 	"When equipped by ^0033CC<Certain Class>^000000:",
 	"When equipped as ^990099Accessory Right^000000:", -> Accessory (1)
 	"When equipped as ^990099Accessory Left^000000:", -> Accessory (2)
+	
 	"^663399Indestructible in battle^000000",
 	
 	- Basic Card Compounding:
@@ -181,6 +199,9 @@ Item Description:
 	"When enchanted with ^990099<Equipment>^000000:",
 	
 	- Refine Codings:
+	"^000088Cannot be refined normally.^000000",
+	"^000088Cannot be refined.^000000",
+	
 	"^0000FFFor each Refine Level^000000:",
 	"^0000FFFor each Refine Level^000000 of ^990099<Equipment>^000000:",
 	"^0000FFFor each Refine Level^000000 equal or above ^0000FF+9^000000 of ^990099<Equipment>^000000 and ^990099<Equipment>^000000:",
@@ -189,10 +210,11 @@ Item Description:
 	"^0000FFFor each 2 Refine Levels^000000 of equipped ^990099<Equipment Type>^000000:",
 	"^0000FFFor each 2 Refine Levels^000000:",
 	"^0000FFRefine Level +7^000000:",
+	"^0000FFUp to max +5 Refine Level^000000:",
 	"If ^0000FFRefine Level^000000 of equipped ^990099<Equipment Type>^000000 is ^0000FF+7 or higher^000000:",
+	"If ^0000FFRefine Level^000000 of ^990099<Equipment>^000000 is ^0000FF+7 or higher^000000:",
 	
 	- Refine Codings in combination
-	"If ^0000FFRefine Level^000000 of ^990099<Equipment>^000000 is ^0000FF+7 or higher^000000:",
 	"If ^0000FFtotal Refine Level^000000 of ^990099<Equipment>^000000, ^990099<Equipment>^000000 and ^990099<Equipment>^000000 is ^0000FF+27 or higher^000000:",
 	"If ^0000FFtotal Refine Level of entire set^000000 at least ^0000FF+14^000000:",
 	"^0000FFFor each Refine Level^000000 of ^0000FFentire set^000000:",
@@ -208,13 +230,14 @@ Item Description:
 	
 	- Rental Items:
 	"^000088Rental Item^000000",
-	"^FF0000This item is not refundable.^000000",
-	"^FF0000This item cannot be traded with other accounts.^000000",
-	"^FF0000This item cannot be traded or moved to storage.^000000",
+	"^ff0000This item is not refundable.^000000",
+	"^ff0000If you open this item, it is not refundable anymore.^000000",
+	"^ff0000This item cannot be traded with other accounts.^000000",
+	"^ff0000This item cannot be traded or moved to storage.^000000",
 	
-	"^FF0000This item can only be sold to NPCs and moved to storage.^000000",
-	"^FF0000This item can only be sold to NPCs.",
-	"^FF0000This item will not be used in future events.^000000",
+	"^ff0000This item can only be sold to NPCs and moved to storage.^000000",
+	"^ff0000This item can only be sold to NPCs.",
+	"^ff0000This item will not be used in future events.^000000",
 	
 Equipment Info:
 			"________________________",
@@ -231,11 +254,29 @@ Equipment Info:
 			"^0000CCRequirement:^000000",
 			"Base Level X",
 			"<Job Classes>"
+	
+WoE/PvP:
+	"*Effects in WoE TE area",
+	"Increases physical damage against ^FF0000Players^000000 by 40%.",
+	"Increases magical damage against ^FF0000Players^000000 by 40%.",
+	"Random chance to inflict ^663399Bleeding^000000 status when dealing physical damage.",
+	"Random chance to inflict ^663399Bleeding^000000 status when dealing magical damage.",
+	"Decreases damage taken from ^FF0000Players^000000 by 10%.",
+	
+	"Decreases the target's SP by 10% on each physical attack. (This effect does not work with skills.)",
+	"Has a chance to reflect damage back to the enemy as well as casting ^009900Magic Mirror^000000.",
+	"Physical attacks have a certain chance to increase ATK by 200 for 3 seconds.",
 
 Exchange NPC Locations:
 	"<NAVI>^0033CCDesigner Heidam^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 5.",
 		
-	"X can be bought from <NAVI>^0033CCCat Hand Salesman Nyarom^000000<INFO>itemmall,41,50,0,100,0,0</INFO></NAVI>.",
+	"X can be obtained from",
+	"<NAVI>^4D4DFF[Cat Salesman Nyarom]^000000<INFO>itemmall,41,50,0,100,0,0</INFO></NAVI>^000000,",
+	"by using Silvervine Cat Fruit or Zeny.",
+	
+	"<NAVI>^4D4DFFCentro^000000<INFO>prontera,166,300,0,100,0,0</INFO></NAVI>^000000",
+	"<NAVI>^4D4DFFYves^000000<INFO>malangdo,152,136,0,100,0,0</INFO></NAVI>^000000",
+	"<NAVI>^4D4DFFRS26-1^000000<INFO>sp_cor,98,136,0,100,0,0</INFO></NAVI>^000000",
 	
 	"<NAVI>^0033CCLace La Zard^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 	"<NAVI>^0033CCAver De Dosh^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
@@ -255,6 +296,27 @@ Shadow Equipment:
 	Earring: "A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.",
 	Shield: "A small shield worn on the arm for additional defense. Needs a complete set to have bonus effect.",
 	Shoes: "A pair of shoes worn on top of normal shoes for additional defense. Needs a complete set to have bonus effect.",
+
+Enchant Stones:
+	Item Display Names:
+	Upper
+	Mid
+	Lower
+	Garment
+
+	Descriptions:
+	"A stone that awakens the potential of <Class>.",
+	"Gives the following effects when compounded on a slot of an Costume Upper Headgear.",
+	"Gives the following effects when compounded on a slot of an Costume Middle Headgear.",
+	"Gives the following effects when compounded on a slot of an Costume Lower Headgear.",
+	"Gives the following effects when compounded on a slot of an Costume Garment.",
+
+Grade Options:
+	"^CC3D3D[Additional Options by Grade]^000000",
+	"[Grade D]: Effect>",
+
+	Refine Level:
+	<Effect> per ^0000FF2 Refine Levels^000000
 
 Equipped Effect:
 	"^006400Since it is an equipped effect, it still will be displayed even when the effect (/effect) is turned off.^000000",

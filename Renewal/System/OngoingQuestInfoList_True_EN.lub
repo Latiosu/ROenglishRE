@@ -13185,7 +13185,7 @@ QuestInfoList = {
 	[5729] = {
 		Title = "To Einbech",
 		Description = {
-			"Go to <NAVI>the very end of the freight train­<INFO>einbech,212,212,0,101,0</INFO></NAVI> and obtain ^C33120item with Fire attribute^000000."
+			"Go to <NAVI>the very end of the freight train?<INFO>einbech,212,212,0,101,0</INFO></NAVI> and obtain ^C33120item with Fire attribute^000000."
 		},
 		Summary = ""
 	},
@@ -18326,7 +18326,8 @@ QuestInfoList = {
 	[7586] = {
 		Title = "I need silk-2",
 		Description = {
-			"The thread also says that there are no extra cloths available for handing out."		},
+			"The thread also says that there are no extra cloths available for handing out."
+		},
 		Summary = "Talk with Mark Isha"
 	},
 	[7587] = {
@@ -18831,7 +18832,8 @@ QuestInfoList = {
 		Summary = "Return to Bori after the timer has expired"
 	},
 	[7673] = {
-		Title = "Dream of Surat Gan",		Description = {
+		Title = "Dream of Surat Gan",
+		Description = {
 			"Surangan Dansul, who was worried about the base materials and unusual garnish to be used for rice cake soup, asked me to rescue him because he recently saw chocolate. Let's get 15 Fresh Cctopus Legs and 1 Chocolate^000000."
 		},
 		Summary = "Fresh Octopus Leg 15, Chocolate 1"
@@ -21324,7 +21326,8 @@ QuestInfoList = {
 	[8179] = {
 		Title = "Live and Dead Water",
 		Description = {
-			"'Live water' ... I remember hearing that one day. ^0000ff One sacred water ^000000 and ^0000ff can be made from two leaves of the trees that make up the world ^000000. And 'dead water '... this can be made with 1 piece of cursed water ^0000ff ^000000 and 10 pieces of flowers of ^0000ff hyrena ^000000.'"		},
+			"'Live water' ... I remember hearing that one day. ^0000ff One sacred water ^000000 and ^0000ff can be made from two leaves of the trees that make up the world ^000000. And 'dead water '... this can be made with 1 piece of cursed water ^0000ff ^000000 and 10 pieces of flowers of ^0000ff hyrena ^000000.'"
+		},
 		Summary = "Bring the ingredients to Babayaga"
 	},
 	[8180] = {
@@ -22169,13 +22172,15 @@ QuestInfoList = {
 		Summary = "10 fluffy"
 	},
 	[8285] = {
-		Title = "To the new spring",		Description = {
+		Title = "To the new spring",
+		Description = {
 			"For Arles' discipleship, he asked me to release the energy of the young ^0000FF cherry tree ^000000 near the Prontera's flowering tree and get 15 ^0000FF flower branches ^000000."
 		},
 		Summary = "15 branches"
 	},
 	[8286] = {
-		Title = "To a new beginning",		Description = {
+		Title = "To a new beginning",
+		Description = {
 			"At Arles 'request, five flower branches must be delivered to Arles' disciples Semini, Lisoni and Lumaka."
 		},
 		Summary = "Deliver a branch"
@@ -22452,7 +22457,8 @@ QuestInfoList = {
 		NpcPosX = 20,
 	},
 	[8326] = {
-		Title = "Please come to Payon",		IconName = "ico_nq.bmp",
+		Title = "Please come to Payon",
+		IconName = "ico_nq.bmp",
 		Description = {
 			"At the request of Masha from the Alberta Merchants Union Employment Department, we have to deliver ^0000FFa bit of an old box^000000 to the Payon Forge sheep."
 		},
@@ -22487,7 +22493,8 @@ QuestInfoList = {
 		NpcPosY = 171
 	},
 	[8329] = {
-		Title = "Let's go back to the trade union",		IconName = "ico_nq.bmp",
+		Title = "Let's go back to the trade union",
+		IconName = "ico_nq.bmp",
 			Description = {
 		"Let's submit a receipt to Marsha, a member of the Alberta Trade Union Employment Department."
 		},
@@ -22498,7 +22505,8 @@ QuestInfoList = {
 		NpcPosY = 19
 	},
 	[8330] = {
-		Title = "Please visit Aldebaran",		IconName = "ico_nq.bmp",
+		Title = "Please visit Aldebaran",
+		IconName = "ico_nq.bmp",
 		Description = {
 			"A request from Masha from the Alberta Merchants Union's Employment Department, we have to deliver ^0000FFa bit of an old box^000000 to the amount waiting at the Aldebaran Inn."
 		},
@@ -22750,7 +22758,8 @@ QuestInfoList = {
 		Summary = "04:00 reset time"
 	},
 	[8529] = {
-		Title = "The price of the king's shoes",		Description = { "" },
+		Title = "The price of the king's shoes",
+		Description = { "" },
 		Summary = ""
 	},
 	[8530] = {
@@ -23565,7 +23574,8 @@ QuestInfoList = {
 		Summary = "Completed publicity in Izlude town"
 	},
 	[9206] = {
-		Title = "9th Anniversary of the World <Promotion of Kunlun>,",		Description = {
+		Title = "9th Anniversary of the World <Promotion of Kunlun>,",
+		Description = {
 			"Completed publicity in Izlude town."
 		},
 		Summary = "Completed publicity in Izlude town"
@@ -23669,7 +23679,8 @@ QuestInfoList = {
 		Summary = "Let's get rewarded by going back to the 9th anniversary PR agent in Prontera"
 	},
 	[9221] = {
-		Title = "9th Anniversary of the World",		Description = {
+		Title = "9th Anniversary of the World",
+		Description = {
 			"^0000FF9th Anniversary PR agent located at ^8B4513Prontera^000000 says: ^404040Many people still lack publicity to know about the 9th anniversary. Please come back after a day. I don't know if there will be any work !!"
 		},
 		Summary = "Let's go to the 9th anniversary public relations agent after a day"
@@ -27427,7 +27438,8 @@ QuestInfoList = {
 	[11178] = {
 		Title = "Dancing Girl",
 		Description = {
-			"Kuh-huh-huh-oh! You shouldn't cry ... haha ??.. But the gift is ... I don't have to cry."		},
+			"Kuh-huh-huh-oh! You shouldn't cry ... haha ??.. But the gift is ... I don't have to cry."
+		},
 		Summary = "I think something has happened"
 	},
 	[11179] = {
@@ -32736,7 +32748,8 @@ QuestInfoList = {
 	[12315] = {
 		Title = "Fake punishment",
 		Description = {
-			"You have to slay the Fake Reveal, who attempts to infiltrate the front gates of Prontera and Geffen, get all five of her fake business cards, and give them to Wishmaiden as a token."		},
+			"You have to slay the Fake Reveal, who attempts to infiltrate the front gates of Prontera and Geffen, get all five of her fake business cards, and give them to Wishmaiden as a token."
+		},
 		Summary = "Goal: Reveal"
 	},
 	[12316] = {
@@ -32978,13 +32991,15 @@ QuestInfoList = {
 		Summary = "Week 1 of courtship"
 	},
 	[12350] = {
-		Title = "Gift for a coma",		Description = {
+		Title = "Gift for a coma",
+		Description = {
 			"One white plate, blue porcelain, and red picture frame must be obtained for each type and delivered to the deacon of Furian."
 		},
 		Summary = "Two weeks of courtship"
 	},
 	[12351] = {
-		Title = "Gift Gift",		Description = {
+		Title = "Gift Gift",
+		Description = {
 			"Emeralds, rubies, and sapphires must be obtained one by one and delivered to the deacons of Furian."
 		},
 		Summary = "Week 3 of courtship"
@@ -33503,7 +33518,8 @@ QuestInfoList = {
 	[12446] = {
 		Title = "Soul Ripper's Way 5",
 		Description = {
-			"To uncover the identity of the bot Jim Thief, let's have a battle with the kidnappers and half medicine."		},
+			"To uncover the identity of the bot Jim Thief, let's have a battle with the kidnappers and half medicine."
+		},
 		Summary = "Soul Ripper's Way"
 	},
 	[12447] = {
@@ -33683,7 +33699,8 @@ QuestInfoList = {
 		Description = {
 			"Since Sylvano, who was in a poor state, tried to use a potion because he didn't even have time to chant a recovery spell, all the potions in his inventory were swallowed up by this lingering monster. ^Ff0077 \" Will it work? It won't be there yet. I just don't want an adventurer to take the same damage. \"^000000It's up to the next adventurer to listen to his little hope."
 		},
-		Summary = "Corporation of Chaos",		RewardEXP = "1750000",
+		Summary = "Corporation of Chaos",
+		RewardEXP = "1750000",
 		RewardJEXP = "1137500",
 		RewardItemList = {
 			{ItemID = 25782, ItemNum = 1}
@@ -34056,7 +34073,8 @@ QuestInfoList = {
 		Summary = "Let's return the rice cake to the growler."
 	},
 	[13031] = {
-		Title = "Find Vandalja,",		Description = {
+		Title = "Find Vandalja,",
+		Description = {
 			"Let's find a man who has become a human being and send him a letter. Do you know the location of the weeds in the north of Payon?"
 		},
 		Summary = "You send a letter to Mr. Vandalga and come back."
@@ -34097,13 +34115,15 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[13037] = {
-		Title = "The story of the growl",		Description = {
+		Title = "The story of the growl",
+		Description = {
 			"I heard the story of growl. It is subtly strange, but grandma might like it."
 		},
 		Summary = ""
 	},
 	[13038] = {
-		Title = "The story of Mr. Vandal",		Description = {
+		Title = "The story of Mr. Vandal",
+		Description = {
 			"I heard the story of Mr. Vandalaga. It's unknown whether Grandma would like it."
 		},
 		Summary = ""
@@ -35998,7 +36018,8 @@ QuestInfoList = {
 	[14223] = {
 		Title = "Find my roots",
 		Description = {
-			"I've lost my parents since I was a child. I don't know the story of my parents."		},
+			"I've lost my parents since I was a child. I don't know the story of my parents."
+		},
 		Summary = "Saury's request"
 	},
 	[14224] = {
@@ -36317,7 +36338,8 @@ QuestInfoList = {
 		Summary = "Let's find the source of the fantasy!"
 	},
 	[14269] = {
-		Title = "Squid for grilling",		Description = {
+		Title = "Squid for grilling",
+		Description = {
 			"Somewhere on the island, there is a pit dug in the storm, please find some squid for grilling there."
 		},
 		Summary = "Let's find cuttlefish!"
@@ -36449,7 +36471,8 @@ QuestInfoList = {
 		Summary = "A fantastic source!"
 	},
 	[14288] = {
-		Title = "Squid for grilling",		Description = {
+		Title = "Squid for grilling",
+		Description = {
 			"The cuttlefish for roasting is out! Let's dig another place."
 		},
 		Summary = "The cuttlefish used for grilling!"
@@ -36842,7 +36865,8 @@ QuestInfoList = {
 	[14344] = {
 		Title = "Additional Materials",
 		Description = {
-			"I need two more things to keep track of who did the wrong thing. Bring me one alcohol and three cursed rubies."		},
+			"I need two more things to keep track of who did the wrong thing. Bring me one alcohol and three cursed rubies."
+		},
 		Summary = "Additional Materials"
 	},
 	[14345] = {
@@ -37282,7 +37306,8 @@ QuestInfoList = {
 	[14407] = {
 		Title = "Find an order expert",
 		Description = {
-			"Look for someone to solve this bondage spell hanging on me. At first glance, I said to Luti what I was talking about, but I don't know well."		},
+			"Look for someone to solve this bondage spell hanging on me. At first glance, I said to Luti what I was talking about, but I don't know well."
+		},
 		Summary = "In search of a shaman"
 	},
 	[14408] = {
@@ -37559,7 +37584,8 @@ QuestInfoList = {
 		Summary = "Time to make"
 	},
 	[14447] = {
-		Title = "Amy next",		Description = {
+		Title = "Amy next",
+		Description = {
 			"Can you see my sister next to me? I'm going to talk to you once my sister has an urgent request."
 		},
 		Summary = "To Amy"
@@ -38055,7 +38081,8 @@ QuestInfoList = {
 		Summary = "Reset at 04:00"
 	},
 	[14520] = {
-		Title = "I'm not even a kid or two",		Description = {
+		Title = "I'm not even a kid or two",
+		Description = {
 			"Please bring Neti soothing. If I go, I'll run away. I'll be in the field at 9 o'clock. I'll be practicing my bow on a small island on the riverside."
 		},
 		Summary = "Bring Netty"
@@ -38082,7 +38109,8 @@ QuestInfoList = {
 		Summary = "1 iron, 10 jellopy"
 	},
 	[14524] = {
-		Title = "Let's go dry now",		Description = {
+		Title = "Let's go dry now",
+		Description = {
 			"Netty's revenge won't be successful. If you're worried, let's go with you. I'd have gone to the house at the top of Payyon's tabernacle."
 		},
 		Summary = "To Payon"
@@ -38116,7 +38144,8 @@ QuestInfoList = {
 		Summary = "10 rabbits"
 	},
 	[14529] = {
-		Title = "Find me again tomorrow,",		Description = {
+		Title = "Find me again tomorrow,",
+		Description = {
 			"I need more dolls to distribute evenly to the children. Will you come back tomorrow?"
 		},
 		Summary = "Visit after 04:00"
@@ -38570,7 +38599,8 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[14594] = {
-		Title = "Ready to walk the dream",		Description = {
+		Title = "Ready to walk the dream",
+		Description = {
 			"If you are ready to walk the dream road, please find me again."
 		},
 		Summary = "To Nieren"
@@ -38728,7 +38758,8 @@ QuestInfoList = {
 		Summary = "Meet Honey"
 	},
 	[14617] = {
-		Title = "Please allow me,",		Description = {
+		Title = "Please allow me,",
+		Description = {
 			"I'll be watching you here, so ask Juan Azotti over there and come."
 		},
 		Summary = "To Juan"
@@ -38778,7 +38809,8 @@ QuestInfoList = {
 	[14624] = {
 		Title = "Polish warmth",
 		Description = {
-			"Please bring me 10 clouds of fluffy that will keep our eggs warm. You can get them by catching the afflicted natives."		},
+			"Please bring me 10 clouds of fluffy that will keep our eggs warm. You can get them by catching the afflicted natives."
+		},
 		Summary = "10 clouds fluffy"
 	},
 	[14625] = {
@@ -39364,7 +39396,8 @@ QuestInfoList = {
 		Summary = "Orcho, the artisan of noodles"
 	},
 	[14707] = {
-		Title = "Nilo",		Description = {
+		Title = "Nilo",
+		Description = {
 			"Have you tasted the pOrc potatoes? We also have an event to harvest pig potatoes from Nilo. <NAVI>Progress agent Bream<INFO>lasagna,90,202,0,101,0</INFO></ NAVI>."
 		},
 		Summary = "Progress Agent Bream"
@@ -39379,7 +39412,8 @@ QuestInfoList = {
 	[14709] = {
 		Title = "Fishing Spot Event",
 		Description = {
-			"How about fishing in the sea? <NAVI>Fishing site<INFO>lasagna,237,89,0,101,0</INFO></NAVI> It's also a good idea to enjoy the event."		},
+			"How about fishing in the sea? <NAVI>Fishing site<INFO>lasagna,237,89,0,101,0</INFO></NAVI> It's also a good idea to enjoy the event."
+		},
 		Summary = "To the fishing grounds"
 	},
 	[14710] = {
@@ -39595,7 +39629,8 @@ QuestInfoList = {
 	[14794] = {
 		Title = "Food preparation",
 		Description = {
-			"I can't afford to prepare food right now. After dawn, I'll give you when you come to <NAVI>or<INFO>alberta,119,193,0,101,0</INFO></NAVI>."		},
+			"I can't afford to prepare food right now. After dawn, I'll give you when you come to <NAVI>or<INFO>alberta,119,193,0,101,0</INFO></NAVI>."
+		},
 		Summary = "Wait time"
 	},
 	[14838] = {
@@ -40167,103 +40202,120 @@ QuestInfoList = {
 		Summary = "Defeat 20 Byorgue Mercenary"
 	},
 	[15025] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Run along the arrow! If you don't see the arrow, talk to Honey again."
 		},
 		Summary = "Run along the arrows"
 	},
 	[15026] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Run along the arrow! If you don't see the arrow, talk to Honey again."
 		},
 		Summary = "Run along the arrows"
 	},
 	[15027] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Run along the arrow! If you don't see the arrow, talk to Honey again."
 		},
 		Summary = "Run along the arrows"
 	},
 	[15028] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Go back to where the honey is."
 		},
 		Summary = "Go back where the honey is"
 	},
 	[15029] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Run along the arrow! If you don't see the arrow, talk to Honey again."
 		},
 		Summary = "Run along the arrows"
 	},
 	[15030] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Run along the arrow! If you don't see the arrow, talk to Honey again."
 		},
 		Summary = "Run along the arrows"
 	},
 	[15031] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Run along the arrow! If you don't see the arrow, talk to Honey again."
 		},
 		Summary = "Run along the arrows"
 	},
 	[15032] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Go back to where the honey is."
 		},
 		Summary = "Go back where the honey is"
 	},
 	[15033] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Run along the arrow! If you don't see the arrow, talk to Honey again."
 		},
 		Summary = "Run along the arrows"
 	},
 	[15034] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Run along the arrow! If you don't see the arrow, talk to Honey again."
 		},
 		Summary = "Run along the arrows"
 	},
 	[15035] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Run along the arrow! If you don't see the arrow, talk to Honey again."
 		},
 		Summary = "Run along the arrows"
 	},
 	[15036] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Go back to where the honey is."
 		},
 		Summary = "Go back where the honey is"
 	},
 	[15037] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Run along the arrow! If you don't see the arrow, talk to Honey again."
 		},
 		Summary = "Run along the arrows"
 	},
 	[15038] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Run along the arrow! If you don't see the arrow, talk to Honey again."
 		},
 		Summary = "Run along the arrows"
 	},
 	[15039] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Run along the arrow! If you don't see the arrow, talk to Honey again."
 		},
 		Summary = "Run along the arrows"
 	},
 	[15040] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Go back to where the honey is."
 		},
 		Summary = "Go back where the honey is"
 	},
 	[15041] = {
-		Title = "Let's run with sweat",		Description = {
+		Title = "Let's run with sweat",
+		Description = {
 			"Quests are available again 23 hours after completing the quest."
 		},
 		Summary = "Quests available after 23 hours"
@@ -41822,7 +41874,8 @@ QuestInfoList = {
 		Summary = "04:00 reset time"
 	},
 	[16170] = {
-		Title = "Gift Soda Gift",		Description = { "" },
+		Title = "Gift Soda Gift",
+		Description = { "" },
 		Summary = ""
 	},
 	[16171] = {
@@ -42289,31 +42342,36 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[16331] = {
-		Title = "Password Passover",		Description = {
+		Title = "Password Passover",
+		Description = {
 			"<NAVI>Aru Hea<INFO>comodo,204,143,0,101,0</INFO></NAVI> I received a stamp handbook. Let's go to the stamp staff waiting here and there and get stamped and return to Aru Hea."
 		},
 		Summary = "Complete stamp notebook"
 	},
 	[16332] = {
-		Title = "One Komodo Dojo",		Description = {
+		Title = "One Komodo Dojo",
+		Description = {
 			"I stamped a left foot on the stamp notebook."
 		},
 		Summary = "Bump your left foot!"
 	},
 	[16333] = {
-		Title = "One Komodo Dojo",		Description = {
+		Title = "One Komodo Dojo",
+		Description = {
 			"I stamped a left hand stamp on the stamp notebook."
 		},
 		Summary = "Bump your left hand!"
 	},
 	[16334] = {
-		Title = "One Komodo Dojo",		Description = {
+		Title = "One Komodo Dojo",
+		Description = {
 			"I stamped one right foot on the stamp notebook."
 		},
 		Summary = "Bump your right foot!"
 	},
 	[16335] = {
-		Title = "One Komodo Dojo",		Description = {
+		Title = "One Komodo Dojo",
+		Description = {
 			"I stamped one right hand stamp on the stamp notebook."
 		},
 		Summary = "Right hand paint!"
@@ -42487,7 +42545,8 @@ QuestInfoList = {
 		Summary = "Conversation with Connie"
 	},
 	[16359] = {
-		Title = "pure evil",		IconName = "ico_ep.bmp",
+		Title = "pure evil",
+		IconName = "ico_ep.bmp",
 		Description = {
 			"<NAVI>Rookie<INFO>sp_cor, 135,216,0,101,0</INFO></NAVI> decided to lead the interrogation. Let's stand next to our eyes."
 		},
@@ -42497,7 +42556,8 @@ QuestInfoList = {
 		Title = "pure facts",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I have figured out how to enter and exit the Barmund Mansion by Eleumina's testimony. Let's go check out the <NAVI>entrance<INFO>sp_cor, 255,285,0,101,0</INFO></NAVI>."		},
+			"I have figured out how to enter and exit the Barmund Mansion by Eleumina's testimony. Let's go check out the <NAVI>entrance<INFO>sp_cor, 255,285,0,101,0</INFO></NAVI>."
+		},
 		Summary = "Conversation with Rookie"
 	},
 	[16361] = {
@@ -42533,7 +42593,8 @@ QuestInfoList = {
 		Summary = "Helping Farmers"
 	},
 	[16365] = {
-		Title = "Standby",		IconName = "ico_dq.bmp",
+		Title = "Standby",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This is a daily quest, you can retake the quest after the timer expires.",
 			"You can order quests through Kor's <NAVI>Farm Workers<INFO>sp_cor, 246,97,0,101,0</INFO></NAVI>."
@@ -42723,7 +42784,8 @@ QuestInfoList = {
 		Summary = "Reject participation in interpretation"
 	},
 	[16390] = {
-		Title = "Standby",		IconName = "ico_nq.bmp",
+		Title = "Standby",
+		IconName = "ico_nq.bmp",
 		Description = {
 			"This quest is a daily quest and can be taken again after the waiting time expires."
 		},
@@ -44683,7 +44745,8 @@ QuestInfoList = {
 		Summary = "Soul Breath 10"
 	},
 	[21020] = {
-		Title = "Break sorrow with a drink",		IconName = "ico_dq.bmp",
+		Title = "Break sorrow with a drink",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"How many sad spirits are there in the Payonne Cave abandoned village? The monk asked me to come back and help as the day dawned."
 		},
@@ -44709,7 +44772,8 @@ QuestInfoList = {
 		Title = "Fox hunting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"It is the work of the fox ghosts Wolyahwa that the souls are not bound to the Buddha's village. The elders of Payyon decided to Kiell the Wolyahwa. ^0000FFArcher with the ^0000FFfox ball obtained after Kielling^000000 Let's go to the town where the Buddha statue is located."		},
+			"It is the work of the fox ghosts Wolyahwa that the souls are not bound to the Buddha's village. The elders of Payyon decided to Kiell the Wolyahwa. ^0000FFArcher with the ^0000FFfox ball obtained after Kielling^000000 Let's go to the town where the Buddha statue is located."
+		},
 		Summary = "Conversation with the elder in front of the Buddha after learning the bead"
 	},
 	[21024] = {
@@ -44737,7 +44801,8 @@ QuestInfoList = {
 	[21027] = {
 		Title = "What is that tree?",
 		Description = {
-			"If you want to get a tree, you have to grab a willow and get a 'dry wood piece', but it's too hard for him, said Dong-dong. Instead, grab three willows and get two 'dry wood pieces.'"		},
+			"If you want to get a tree, you have to grab a willow and get a 'dry wood piece', but it's too hard for him, said Dong-dong. Instead, grab three willows and get two 'dry wood pieces.'"
+		},
 		Summary = "2 pieces of barren wood"
 	},
 	[21028] = {
@@ -44749,7 +44814,8 @@ QuestInfoList = {
 		Summary = "3 dry wood chips"
 	},
 	[21029] = {
-		Title = "Standby",		IconName = "ico_dq.bmp",
+		Title = "Standby",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Payon's middle-aged man still wants someone to plant a tree instead of his son."
 		},
@@ -44809,7 +44875,8 @@ QuestInfoList = {
 		Summary = "Spore hunting"
 	},
 	[21037] = {
-		Title = "Before Mushroom Heaven.",		IconName = "ico_dq.bmp",
+		Title = "Before Mushroom Heaven.",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Payon's grandfather seems to be surprised by Spore's fertility. Ask the East forest to Kiell it before it is covered with spores. Let's hunt Spore!"
 		},
@@ -44871,7 +44938,8 @@ QuestInfoList = {
 		Summary = "Kiell Injustice"
 	},
 	[21045] = {
-		Title = "Standby",		IconName = "ico_dq.bmp",
+		Title = "Standby",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest, and you can take it back when the waiting time expires. You can win the quest through the bulletin board of the paradise or Nadir of Glastheim."
 		},
@@ -44941,7 +45009,8 @@ QuestInfoList = {
 		Summary = "Eradication of headless words"
 	},
 	[21054] = {
-		Title = "Standby",		IconName = "ico_dq.bmp",
+		Title = "Standby",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest, and you can take it back when the waiting time expires. You can win the quest through the board of paradise."
 		},
@@ -45376,7 +45445,8 @@ QuestInfoList = {
 		Summary = "Kiell 10 Nightmares"
 	},
 	[21113] = {
-		Title = "Cute Petite",		Description = {
+		Title = "Cute Petite",
+		Description = {
 			"The boy says that the petite is so violent that he can't get close, so he asks him to go and find a friendly petite. Try touching the petite in the air petite habitat and bring the petite that doesn't attack. I guess! "
 		},
 		Summary = "Treat 10 Air Petites"
@@ -45396,7 +45466,8 @@ QuestInfoList = {
 		Summary = "Treat 10 Air Petites"
 	},
 	[21116] = {
-		Title = "Cute Petite",		Description = {
+		Title = "Cute Petite",
+		Description = {
 			"The petite on the ground is okay, and the boy asks you to go to the habitat of the petite and bring a petite that doesn't attack. How many petites do you have to fight to find a petite that doesn't attack?"
 		},
 		Summary = "Treat 10 Petite Ground"
@@ -45465,7 +45536,8 @@ QuestInfoList = {
 		Summary = "04:00 reset time"
 	},
 	[21127] = {
-		Title = "Eat Kukre today",		Description = {
+		Title = "Eat Kukre today",
+		Description = {
 			"Today, we catch the kukre in search of treasures that may have been eaten."
 		},
 		Summary = "Take 10 Kukres"
@@ -45928,7 +46000,8 @@ QuestInfoList = {
 	[21204] = {
 		Title = "I get a back pain and give me something.",
 		Description = {
-			"In an oasis in front of the pyramid, outside Morrocco, an old scholar asks you to find the ^0000FFfield shovel^000000 bitted by Berritt in the basement of the pyramid."		},
+			"In an oasis in front of the pyramid, outside Morrocco, an old scholar asks you to find the ^0000FFfield shovel^000000 bitted by Berritt in the basement of the pyramid."
+		},
 		Summary = "1 field shovel"
 	},
 	[21205] = {
@@ -46121,7 +46194,8 @@ QuestInfoList = {
 		Summary = "5 claws"
 	},
 	[21232] = {
-		Title = "You should row when you get in. (Standby)",		Description = {
+		Title = "You should row when you get in. (Standby)",
+		Description = {
 			"This quest is a daily quest, and you can take it again when the waiting time expires. You can receive the quest through the bulletin board of the paradise or the wandering merchants of Baiaran Island."
 		},
 		Summary = "04:00 reset time"
@@ -46388,17 +46462,20 @@ QuestInfoList = {
 	[21271] = {
 		Title = "The whereabouts of the priests",
 		Description = {
-			"Larth at the Cathedral of Prontera is worried that the news has been lost from priest Claude, who has gone to practice to purify the old monastery of Glastheim, he said."		},
+			"Larth at the Cathedral of Prontera is worried that the news has been lost from priest Claude, who has gone to practice to purify the old monastery of Glastheim, he said."
+		},
 		Summary = ""
 	},
 	[21272] = {
-		Title = "Purification of Suwon",		Description = {
+		Title = "Purification of Suwon",
+		Description = {
 			"Claude asked to take care of the undead wraiths and evil druids inside the monastery. If you meet a priest who is purifying inside, you will be able to get simple help."
 		},
 		Summary = "Lace, Evil Druid slain"
 	},
 	[21273] = {
-		Title = "Standby Purification",		Description = {
+		Title = "Standby Purification",
+		Description = {
 			"This quest is a daily quest, and you can take it back when the waiting time expires. You can win the quest through the board of paradise or the clad in front of Glastheim Cathedral."
 		},
 		Summary = "04:00 reset time"
@@ -46476,7 +46553,8 @@ QuestInfoList = {
 	[21284] = {
 		Title = "A Definite Finish",
 		Description = {
-			"A female student who was watching a catson merchant request from the Kiel Hyrie Academy has been making additional requests to the inside of the academy, saying that the Grand Pekos and Goats will come in."		},
+			"A female student who was watching a catson merchant request from the Kiel Hyrie Academy has been making additional requests to the inside of the academy, saying that the Grand Pekos and Goats will come in."
+		},
 		Summary = "Goat and fight Grant Peco"
 	},
 	[21285] = {
@@ -46517,7 +46595,8 @@ QuestInfoList = {
 	[21290] = {
 		Title = "Live Clock 2",
 		Description = {
-			"In addition to the clock, there was another clock that was moving in the clock tower. It was an annoying type than Clark, and has been asked to get rid of alarms that sound alarms without any attempt."		},
+			"In addition to the clock, there was another clock that was moving in the clock tower. It was an annoying type than Clark, and has been asked to get rid of alarms that sound alarms without any attempt."
+		},
 		Summary = "Kiell the alarm"
 	},
 	[21291] = {
@@ -46577,7 +46656,8 @@ QuestInfoList = {
 		Summary = "04:00 reset time"
 	},
 	[21299] = {
-		Title = "Autumnary Atmosphere in Waterway Failure",		Description = {
+		Title = "Autumnary Atmosphere in Waterway Failure",
+		Description = {
 			"This quest is a daily quest, and you can take it back when the waiting time expires. You can win a quest through the Paradise Bulletin Board or Whigel's Blacksmith Dry."
 		},
 		Summary = "04:00 reset time"
@@ -46634,7 +46714,8 @@ QuestInfoList = {
 	[21307] = {
 		Title = "Why is that moving!",
 		Description = {
-			"It is said that the old iron stove, which should have been a break for miners in the Einberg coal mine, began attacking the miners."		},
+			"It is said that the old iron stove, which should have been a break for miners in the Einberg coal mine, began attacking the miners."
+		},
 		Summary = "Eradicate the old stove"
 	},
 	[21308] = {
@@ -46717,7 +46798,8 @@ QuestInfoList = {
 	[21319] = {
 		Title = "Why do you have such a large pool!",
 		Description = {
-			"Lighthalzen's resident Amy seems to have a lot of dissatisfaction about not being able to use the large outdoor pool. Let's fight Rafflesia for Theodor, who is not in charge of her, she said."		},
+			"Lighthalzen's resident Amy seems to have a lot of dissatisfaction about not being able to use the large outdoor pool. Let's fight Rafflesia for Theodor, who is not in charge of her, she said."
+		},
 		Summary = "Extermination of Rafflesia"
 	},
 	[21320] = {
@@ -47127,7 +47209,8 @@ QuestInfoList = {
 		Summary = "Hillwind hunting"
 	},
 	[21378] = {
-		Title = "First Field Brawl-Waiting for Hillwind",		Description = {
+		Title = "First Field Brawl-Waiting for Hillwind",
+		Description = {
 			"This quest is a daily quest, and you can take it back when the waiting time expires. You can win a quest through the Ida Plains Hunter Harim."
 		},
 		Summary = "04:00 reset time"
@@ -47560,7 +47643,8 @@ QuestInfoList = {
 		Summary = "04:00 reset time"
 	},
 	[21503] = {
-		Title = "Hunting the Rocker",		Description = {
+		Title = "Hunting the Rocker",
+		Description = {
 			"Hunt a rocker floating in the southwestern field of Prontera, and report it to the sincere <NAVI>Sogil<INFO>moc_para01,18,35,0,101,0</INFO></NAVI>."
 		},
 		Summary = "kill 1 floating rocker"
@@ -47671,7 +47755,8 @@ QuestInfoList = {
 		Summary = "04:00 reset time"
 	},
 	[21519] = {
-		Title = "Hunting White Lotus",		Description = {
+		Title = "Hunting White Lotus",
+		Description = {
 			"Hunt a white lotus in the southwestern field of Izurud, and report it to the faithful <NAVI>Sogil<INFO>moc_para01,18,35,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Destroy 1 floating white lotus"
@@ -48118,7 +48203,8 @@ QuestInfoList = {
 		Summary = "20 Scores"
 	},
 	[21583] = {
-		Title = "Standby",		Description = {
+		Title = "Standby",
+		Description = {
 			"This is a daily quest, you can retake the quest after the timer expires. Is possible."
 		},
 		Summary = "04:00 reset time"
@@ -48229,7 +48315,8 @@ QuestInfoList = {
 		Summary = "30 people in Whikebine Tris"
 	},
 	[21599] = {
-		Title = "Stickby Tree",		Description = {
+		Title = "Stickby Tree",
+		Description = {
 			"This is a daily quest, you can retake the quest after the timer expires. Paradise Bulletin Board or Lighthalzen <NAVI>Slums<INFO>lighthalzen,267,200,0,101,0</INFO></NAVI> You can win quests through the trail."
 		},
 		Summary = "04:00 reset time"
@@ -48319,7 +48406,8 @@ QuestInfoList = {
 		Summary = "04:00 reset time"
 	},
 	[21612] = {
-		Title = "Again again,",		Description = {
+		Title = "Again again,",
+		Description = {
 			"From the <NAVI>Bio-Research Lab<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI>, rest to Shesyl Daemon"
 		},
 		Summary = "2 Shecil Daemons"
@@ -48339,7 +48427,8 @@ QuestInfoList = {
 		Summary = "04:00 reset time"
 	},
 	[21615] = {
-		Title = "Again, Kathryn Karon",		Description = {
+		Title = "Again, Kathryn Karon",
+		Description = {
 			"In the <NAVI>Bio-Research Lab<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI>, rest to Katharine Cayron"
 		},
 		Summary = "2 Katrin Karon"
@@ -48618,7 +48707,8 @@ QuestInfoList = {
 		Summary = "30 Deathwords"
 	},
 	[21655] = {
-		Title = "Standby",		Description = {
+		Title = "Standby",
+		Description = {
 			"This is a daily quest, you can retake the quest after the timer expires. Paradise Bulletin Board or Thanatoss <NAVI>Tower Through the quest can be ordered."
 		},
 		Summary = "04:00 reset time"
@@ -48666,7 +48756,8 @@ QuestInfoList = {
 		Summary = "04:00 reset time"
 	},
 	[21662] = {
-		Title = "Back to knowledge",		Description = {
+		Title = "Back to knowledge",
+		Description = {
 			"Let's collect 10 bloody bookcases that are sometimes found in Deathword at <NAVI>Thanatos Tower<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>."
 		},
 		Summary = "10 bloody bookshelves"
@@ -48707,7 +48798,8 @@ QuestInfoList = {
 		Summary = "04:00 reset time"
 	},
 	[21668] = {
-		Title = "Recycling again",		Description = {
+		Title = "Recycling again",
+		Description = {
 			"Let's gather 30 pieces of tattered clothes from Owl Duke or Owl Baron from <NAVI>Thanatos Tower<INFO>tha_t04,60,142,0,101,0</INFO></NAVI>."
 		},
 		Summary = "30 pieces of tattered clothes"
@@ -48757,7 +48849,8 @@ QuestInfoList = {
 	[21675] = {
 		Title = "rest in death",
 		Description = {
-			"Let's hunt thirty first in this side of the <NAVI>Thanatos Tower<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, who is trying to give you rest."		},
+			"Let's hunt thirty first in this side of the <NAVI>Thanatos Tower<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, who is trying to give you rest."
+		},
 		Summary = "30 rest givers"
 	},
 	[21676] = {
@@ -48770,7 +48863,8 @@ QuestInfoList = {
 	[21677] = {
 		Title = "Come back to death again",
 		Description = {
-			"Let's hunt thirty first in this side of the <NAVI>Thanatos Tower<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, who is trying to give you rest."		},
+			"Let's hunt thirty first in this side of the <NAVI>Thanatos Tower<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, who is trying to give you rest."
+		},
 		Summary = "30 rest givers"
 	},
 	[21678] = {
@@ -48984,7 +49078,8 @@ QuestInfoList = {
 		Summary = "10 Abyss Articles"
 	},
 	[21708] = {
-		Title = "Standby",		Description = {
+		Title = "Standby",
+		Description = {
 			"This is a daily quest, you can retake the quest after the timer expires. Quests through the Paradise Bulletin Board or <NAVI>Chiav<INFO>glast_01,67,193,0,101,0</INFO></NAVI> on Glasthheim You can order."
 		},
 		Summary = "04:00 reset time"
@@ -49151,7 +49246,8 @@ QuestInfoList = {
 		Summary = "30 cornus"
 	},
 	[21732] = {
-		Title = "Standby",		Description = {
+		Title = "Standby",
+		Description = {
 			"This is a daily quest, you can retake the quest after the timer expires. Quest orders are possible."
 		},
 		Summary = "04:00 reset time"
@@ -49262,7 +49358,8 @@ QuestInfoList = {
 		Summary = "04:00 reset time"
 	},
 	[21748] = {
-		Title = "Back to the shell",		Description = {
+		Title = "Back to the shell",
+		Description = {
 			"Let's defeat 30 Dolomedes at the foot of <NAVI>Kamidal Mountain<INFO>dic_fild02,238,34,0,101,0</INFO></NAVI> so as not to be fooled by the appearance."
 		},
 		Summary = "30 Dolomedes"
@@ -49275,7 +49372,8 @@ QuestInfoList = {
 		Summary = "30 horned scarabs"
 	},
 	[21750] = {
-		Title = "Standby",		Description = {
+		Title = "Standby",
+		Description = {
 			"This is a daily quest, you can retake the quest after the timer expires. Through <NAVI>Theodore<INFO>mid_camp,273,242,0,101,0</INFO></NAVI> on the Paradise Bulletin Board or Midgard Alliance Garrison Quest orders are possible."
 		},
 		Summary = "04:00 reset time"
@@ -49295,7 +49393,8 @@ QuestInfoList = {
 		Summary = "30 bihorn scarabs"
 	},
 	[21753] = {
-		Title = "Standby",		Description = {
+		Title = "Standby",
+		Description = {
 			"This is a daily quest, you can retake the quest after the timer expires. Through <NAVI>Theodore<INFO>mid_camp,273,242,0,101,0</INFO></NAVI> on the Paradise Bulletin Board or Midgard Alliance Garrison Quest orders are possible."
 		},
 		Summary = "04:00 reset time"
@@ -49399,7 +49498,8 @@ QuestInfoList = {
 		Summary = "20 Miming"
 	},
 	[21768] = {
-		Title = "Standby",		Description = {
+		Title = "Standby",
+		Description = {
 			"This is a daily quest, you can retake the quest after the timer expires. Through the paradise board or <NAVI>nu,<INFO>mora, 101,53,0,101,0</INFO></NAVI> in Mora Village Quest orders are possible."
 		},
 		Summary = "04:00 reset time"
@@ -49902,7 +50002,8 @@ QuestInfoList = {
 		Summary = "04:00 reset time"
 	},
 	[21840] = {
-		Title = "Hunting the Luciola Vespa",		Description = {
+		Title = "Hunting the Luciola Vespa",
+		Description = {
 			"Hunt a Luciola Vespa floating on the Splendid Field, and report it to the faithful <NAVI>Sorgil<INFO>moc_para01,18,35,0,101,0</INFO></NAVI>."
 		},
 		Summary = "kill 1 floating Luciola Vespa"
@@ -50134,7 +50235,8 @@ QuestInfoList = {
 	[21919] = {
 		Title = "Search for Goddess Devotee 1",
 		Description = {
-			"The Knights of Mercy ask you to cooperate in finding the 'Bran' that led to the distribution of the suspicious flyer. <NAVI>Reno<INFO>prt_fild05,335,225,0,101,0 </ INFO> </ NAVI Let's find>."		},
+			"The Knights of Mercy ask you to cooperate in finding the 'Bran' that led to the distribution of the suspicious flyer. <NAVI>Reno<INFO>prt_fild05,335,225,0,101,0 </ INFO> </ NAVI Let's find>."
+		},
 		Summary = "Fighting trace investigation"
 	},
 	[21920] = {
@@ -50168,7 +50270,8 @@ QuestInfoList = {
 	[21924] = {
 		Title = "Advice for training",
 		Description = {
-			"Spraki said he might have something to do in 'Payon' and recommended that he go to 'Payon'. <NAVI>Kaffra staff at Izlude Square<INFO>izlude,128,148,0,101,0</INFO></NAVI> Let's go to 'Payon.'"		},
+			"Spraki said he might have something to do in 'Payon' and recommended that he go to 'Payon'. <NAVI>Kaffra staff at Izlude Square<INFO>izlude,128,148,0,101,0</INFO></NAVI> Let's go to 'Payon.'"
+		},
 		Summary = "Conversation with Kafra employees"
 	},
 	[21925] = {

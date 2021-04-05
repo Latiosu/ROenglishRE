@@ -19919,6 +19919,139 @@ QuestInfoList = {
 		},
 		Summary = "Reset at 04:00"
 	},
+	[7850] = {
+		Title = "Cat on a Bullet",
+		Description = {
+			"The member of the Rebellion I met in Einbech said that his group is using an Einbroch store as a base to cover its area of operations that's gotten bigger as of late. I should find the <NAVI>Cat on a Bullet<INFO>einbroch,302,329,0,101,0</INFO></NAVI> in Einbroch."
+		},
+		Summary = "Talk to Tes at the Cat"
+	},
+	[7851] = {
+		Title = "New Area of Operations",
+		Description = {
+			"Tes told me about the new area of operations, <NAVI>Rudus<INFO></Iein_fild05,158,284,0,101,0NFO></NAVI>. I should go there and join the members of the Rebellion there."
+		},
+		Summary = "Talk to Elena Volkova"
+	},
+	[7852] = {
+		Title = "Behind the Wall",
+		Description = {
+			"Elena Volkova in the new area of operations, <NAVI>Rudus<INFO></Iein_fild05,158,284,0,101,0NFO></NAVI>, asked me to talk to Rookie who's investigating the wall, and then find out what's behind the wall."
+		},
+		Summary = "Talk to Rookie"
+	},
+	[7853] = {
+		Title = "Investigating around the Wall",
+		Description = {
+			"Rookie inside <NAVI>Rudus<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI> asked me to investigate around the wall. I should collect everything that looks suspicious and let him know."
+		},
+		Summary = ""
+	},
+	[7854] = {
+		Title = "Wall on the Railroad",
+		Description = {
+			"There's a wall standing on the railroad. It must have been built after the mine was closed."
+		},
+		Summary = ""
+	},
+	[7855] = {
+		Title = "Watchtower",
+		Description = {
+			"This watchtower is tall enough to look beyond the wall. I don't think the ore-refining process would need watchtowers like this."
+		},
+		Summary = ""
+	},
+	[7856] = {
+		Title = "Small Hole",
+		Description = {
+			"Where the edge of the wall meets the rock, there's a hole barely big enough to let a small child to crawl through."
+		},
+		Summary = ""
+	},
+	[7857] = {
+		Title = "Report to Rookie",
+		Description = {
+			"I've looked around the wall. I should give the information I've collected to Rookie."
+		},
+		Summary = "Talk to Rookie"
+	},
+	[7858] = {
+		Title = "Investigate Ominous Noise",
+		Description = {
+			"Some of the Rebellion members are already on the move to identify the noise coming from the other side of the wall. Rookie asked me to take care of its source if it's monsters."
+		},
+		Summary = "Defeat 10 Dolor, 10 Venenum and 10 Twin Caputs"
+	},
+	[7859] = {
+		Title = "Report to Tes",
+		Description = {
+			"Elena Volkova asked me to go back to the Cat on a Bullet and let <NAVI>Tess<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> know the situation beyond the wall is not normal. From what she says, it's a dump."
+		},
+		Summary = ""
+	},
+	[7860] = {
+		Title = "Unexpected Guest",
+		Description = {
+			"[Tes]pub_cat,93,105,0,101,0 at the Cat on a Bullet took me to a secret room in the back to discuss some urgent matter."
+		},
+		Summary = "Talk to Tes in the Secret Room"
+	},
+	[7861] = {
+		Title = "The Corporation in Crisis",
+		Description = {
+			"I've decided to join forces with Est and others to reclaim the Regenschirm Laboratory from those traitors. I should go to Lighthalzen and meet the <NAVI>Republic Guard<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI> waiting for me there."
+		},
+		Summary = "Talk to Republic Guard"
+	},
+	[7862] = {
+		Title = "Regenschirm Reclamation",
+		Description = {
+			"We've decided to infiltrate the Lab and clear what's inside. I can enter the Lab through <NAVI>Oscar<INFO></Ilighthalzen,55,278,0,101,0NFO></NAVI>."
+		},
+		Summary = ""
+	},
+	[7863] = {
+		Title = "Data Obtained from the Lab",
+		Description = {
+			"Data related to the Lab's Security Team 1."
+		},
+		Summary = "Report to Tes"
+	},
+	[7864] = {
+		Title = "A Change of Air",
+		Description = {
+			"While Tes analyzes the data, I've decided to help Rage. I should look for him in the pub."
+		},
+		Summary = "Talk to Rage"
+	},
+	[7865] = {
+		Title = "Second Operation",
+		Description = {
+			"A new operation will take place in the closed mine in the northwestern Einbroch field. I should meet with the <NAVI>Rebellion Member<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI> waiting there and join the operation."
+		},
+		Summary = "Talk to Rebellion Member"
+	},
+	[7866] = {
+		Title = "To the Cat on a Bullet",
+		Description = {
+			"I should go back to the Cat on a Bullet and report to <NAVI>Tes<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> about what happened at the Lab."
+		},
+		Summary = "Talk to Tes"
+	},
+	[7867] = {
+		Title = "Merc vs. Merc",
+		Description = {
+			"[Juslan]sp_cor,155,94,0,101,0 in the special security area, Cor, asked me to take care of Heart Hunters Bellare and Sanare in Os."
+		},
+		Summary = "Defeat Heart Hunters"
+	},
+	[7868] = {
+		Title = "Merc vs. Merc - Pending",
+		Description = {
+			"A Daily quest. It can be repeated after its cooldown through <NAVI>Juslan<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> in the special security area, Cor."
+		},
+		Summary = "Reset at 04:00 a.m."
+	},
 	[7998] = {
 		Title = "Last calm to you",
 		Description = {

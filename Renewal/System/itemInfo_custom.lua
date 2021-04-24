@@ -3033,27 +3033,27 @@ tbl_custom = {
     ClassNum = 1292
   },
   [20714] = {
-		unidentifiedDisplayName = "Unidentified Garment",
-		unidentifiedResourceName = "후드",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Assassin Muffler",
-		identifiedResourceName = "로키의머플러",
-		identifiedDescriptionName = {
-			"A muffler worn by eastern group of assassin.",
-			"________________________",
-			"^0000FFFor each Refine Level^000000 equal or above ^0000FF+6^000000:",
-			"AGI +2",
-			"________________________",
-			"^0000CCType:^000000 Garment",
-			"^0000CCDefense:^000000 16",
-			"^0000CCWeight:^000000 10",
-			"________________________",
-			"^0000CCRequirement:^000000",
-			"Base Level 50"
-		},
-		slotCount = 1,
-		ClassNum = 0
-	},
+    unidentifiedDisplayName = "Unidentified Garment",
+    unidentifiedResourceName = "후드",
+    unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+    identifiedDisplayName = "Assassin Muffler",
+    identifiedResourceName = "로키의머플러",
+    identifiedDescriptionName = {
+      "A muffler worn by eastern group of assassin.",
+      "________________________",
+      "^0000FFFor each Refine Level^000000 equal or above ^0000FF+6^000000:",
+      "AGI +2",
+      "________________________",
+      "^0000CCType:^000000 Garment",
+      "^0000CCDefense:^000000 16",
+      "^0000CCWeight:^000000 10",
+      "________________________",
+      "^0000CCRequirement:^000000",
+      "Base Level 50"
+    },
+    slotCount = 1,
+    ClassNum = 0
+  },
   [22000] = {
     unidentifiedDisplayName = "Unidentified Shoes",
     unidentifiedResourceName = "슈즈",
@@ -3483,6 +3483,20 @@ tbl_custom = {
     slotCount = 0,
     ClassNum = 0,
     costume = false
+  },
+  [25666] = {
+    unidentifiedDisplayName = "Identification Bracelet",
+    unidentifiedResourceName = "청색머리띠",
+    unidentifiedDescriptionName = { "" },
+    identifiedDisplayName = "Identification Bracelet",
+    identifiedResourceName = "청색머리띠",
+    identifiedDescriptionName = {
+      "A bracelet worn on the wrist for easy identification of subjects. It was damaged all over the place, but you can barely recognize the name on the bracelet.",
+      "________________________",
+      "^0000CCWeight:^000000 0"
+    },
+    slotCount = 0,
+    ClassNum = 0
   },
   [31437] = {
     unidentifiedDisplayName = "Unidentified Ribbon",

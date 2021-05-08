@@ -4083,6 +4083,22 @@ tbl_custom = {
     slotCount = 0,
     ClassNum = 0,
     costume = false
+  },
+  [2000050] = {
+    unidentifiedDisplayName = "Choco Bundle Token",
+    unidentifiedResourceName = "∞ÒµÂƒ⁄¿Œ",
+    unidentifiedDescriptionName = { "" },
+    identifiedDisplayName = "Choco Bundle Token",
+    identifiedResourceName = "∞ÒµÂƒ⁄¿Œ",
+    identifiedDescriptionName = {
+      "^ff0000Account Bound^000000",
+      "This rare token can be exchanged with a trader in Prontera for items found in Choco Bundles.",
+      "________________________",
+      "^0000CCWeight:^000000 0"
+    },
+    slotCount = 0,
+    ClassNum = 0,
+    costume = false
   }
 }
 
